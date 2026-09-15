@@ -1,0 +1,681 @@
+tweet_id,author_id,inbound,created_at,text,response_tweet_id,in_response_to_tweet_id,_debug_intent
+1000,cust_85c296fd,True,Sat Mar 30 03:53:00 +0000 2024,Where is my order #770487? It's been 5 days.,1001,,order_status
+1001,AmazonHelp,False,Sat Mar 30 04:23:00 +0000 2024,"We understand the wait is frustrating. Your order 770487 is currently in transit, expected within 2 business days.",,1000,order_status
+1002,cust_22afe555,True,Fri Aug 02 23:48:00 +0000 2024,My package for order 246316 says it shipped but tracking is stuck.,1003,,order_status
+1003,AmazonHelp,False,Sat Aug 03 00:44:00 +0000 2024,"Hi, sorry for the delay! Please check your tracking link here: amzn.to/track246316. We're looking into the delay with the carrier.",,1002,order_status
+1004,cust_fe010b5b,True,Mon Mar 25 17:01:00 +0000 2024,Where is my order #133326? It's been 5 days.,1005,,order_status
+1005,AmazonHelp,False,Mon Mar 25 18:07:00 +0000 2024,"Hi, sorry for the delay! Please check your tracking link here: amzn.to/track133326. We're looking into the delay with the carrier.",,1004,order_status
+1006,cust_4e85b111,True,Tue Sep 17 16:40:00 +0000 2024,My package for order 731262 says it shipped but tracking is stuck.,1007,,order_status
+1007,AmazonHelp,False,Tue Sep 17 18:05:00 +0000 2024,"Hi, sorry for the delay! Please check your tracking link here: amzn.to/track731262. We're looking into the delay with the carrier.",,1006,order_status
+1008,cust_e8cf6127,True,Fri Aug 02 13:04:00 +0000 2024,Where is my order #835392? It's been 5 days.,1009,,order_status
+1009,AmazonHelp,False,Fri Aug 02 13:41:00 +0000 2024,"We understand the wait is frustrating. Your order 835392 is currently in transit, expected within 2 business days.",,1008,order_status
+1010,cust_cff45173,True,Fri May 03 21:09:00 +0000 2024,Where is my order #948749? It's been 5 days.,1011,,order_status
+1011,AmazonHelp,False,Fri May 03 21:46:00 +0000 2024,"We understand the wait is frustrating. Your order 948749 is currently in transit, expected within 2 business days.",,1010,order_status
+1012,cust_88a78ab1,True,Sat Feb 03 18:25:00 +0000 2024,Hey @AmazonHelp any update on order 263032? Tracking hasn't moved.,1013,,order_status
+1013,AmazonHelp,False,Sat Feb 03 19:15:00 +0000 2024,"Hi, sorry for the delay! Please check your tracking link here: amzn.to/track263032. We're looking into the delay with the carrier.",,1012,order_status
+1014,cust_964d53ca,True,Sun Oct 20 20:47:00 +0000 2024,Hey @AmazonHelp any update on order 201414? Tracking hasn't moved.,1015,,order_status
+1015,AmazonHelp,False,Sun Oct 20 20:54:00 +0000 2024,"We understand the wait is frustrating. Your order 201414 is currently in transit, expected within 2 business days.",,1014,order_status
+1016,cust_70a423b9,True,Sun Dec 01 19:08:00 +0000 2024,My package for order 865179 says it shipped but tracking is stuck.,1017,,order_status
+1017,AmazonHelp,False,Sun Dec 01 19:58:00 +0000 2024,"Hi, sorry for the delay! Please check your tracking link here: amzn.to/track865179. We're looking into the delay with the carrier.",,1016,order_status
+1018,cust_de88daa8,True,Mon Jul 29 04:58:00 +0000 2024,My package for order 182627 says it shipped but tracking is stuck.,1019,,order_status
+1019,AmazonHelp,False,Mon Jul 29 05:24:00 +0000 2024,"We understand the wait is frustrating. Your order 182627 is currently in transit, expected within 2 business days.",,1018,order_status
+1020,cust_27a77950,True,Tue Oct 08 11:10:00 +0000 2024,Where is my order #838797? It's been 5 days.,1021,,order_status
+1021,AmazonHelp,False,Tue Oct 08 11:49:00 +0000 2024,"Hi, sorry for the delay! Please check your tracking link here: amzn.to/track838797. We're looking into the delay with the carrier.",,1020,order_status
+1022,cust_75f09b36,True,Thu Apr 11 04:58:00 +0000 2024,Where is my order #183667? It's been 5 days.,1023,,order_status
+1023,AmazonHelp,False,Thu Apr 11 05:58:00 +0000 2024,"We understand the wait is frustrating. Your order 183667 is currently in transit, expected within 2 business days.",,1022,order_status
+1024,cust_7dc61ec1,True,Thu May 09 08:24:00 +0000 2024,Where is my order #766563? It's been 5 days.,1025,,order_status
+1025,AmazonHelp,False,Thu May 09 08:52:00 +0000 2024,"We understand the wait is frustrating. Your order 766563 is currently in transit, expected within 2 business days.",,1024,order_status
+1026,cust_1a6b4d86,True,Fri Aug 09 18:40:00 +0000 2024,My package for order 802729 says it shipped but tracking is stuck.,1027,,order_status
+1027,AmazonHelp,False,Fri Aug 09 20:03:00 +0000 2024,"Hi, sorry for the delay! Please check your tracking link here: amzn.to/track802729. We're looking into the delay with the carrier.",,1026,order_status
+1028,cust_cd2a7308,True,Sat May 18 03:43:00 +0000 2024,Where is my order #279451? It's been 5 days.,1029,,order_status
+1029,AmazonHelp,False,Sat May 18 04:19:00 +0000 2024,"We understand the wait is frustrating. Your order 279451 is currently in transit, expected within 2 business days.",,1028,order_status
+1030,cust_16fc904c,True,Sat Nov 02 20:57:00 +0000 2024,My package for order 771088 says it shipped but tracking is stuck.,1031,,order_status
+1031,AmazonHelp,False,Sat Nov 02 22:37:00 +0000 2024,"We understand the wait is frustrating. Your order 771088 is currently in transit, expected within 2 business days.",,1030,order_status
+1032,cust_10a964a2,True,Sun Oct 20 02:35:00 +0000 2024,Where is my order #913694? It's been 5 days.,1033,,order_status
+1033,AmazonHelp,False,Sun Oct 20 03:17:00 +0000 2024,"Hi, sorry for the delay! Please check your tracking link here: amzn.to/track913694. We're looking into the delay with the carrier.",,1032,order_status
+1034,cust_8e228fc9,True,Thu Nov 28 11:06:00 +0000 2024,Where is my order #520651? It's been 5 days.,1035,,order_status
+1035,AmazonHelp,False,Thu Nov 28 12:20:00 +0000 2024,"Hi, sorry for the delay! Please check your tracking link here: amzn.to/track520651. We're looking into the delay with the carrier.",,1034,order_status
+1036,cust_7126f7e2,True,Fri May 24 01:05:00 +0000 2024,Where is my order #852787? It's been 5 days.,1037,,order_status
+1037,AmazonHelp,False,Fri May 24 03:00:00 +0000 2024,"We understand the wait is frustrating. Your order 852787 is currently in transit, expected within 2 business days.",,1036,order_status
+1038,cust_d38a75c4,True,Tue Feb 20 20:06:00 +0000 2024,Where is my order #774079? It's been 5 days.,1039,,order_status
+1039,AmazonHelp,False,Tue Feb 20 20:39:00 +0000 2024,"We understand the wait is frustrating. Your order 774079 is currently in transit, expected within 2 business days.",,1038,order_status
+1040,cust_8b64a983,True,Fri Nov 22 21:17:00 +0000 2024,My package for order 881177 says it shipped but tracking is stuck.,1041,,order_status
+1041,AmazonHelp,False,Fri Nov 22 22:33:00 +0000 2024,"We understand the wait is frustrating. Your order 881177 is currently in transit, expected within 2 business days.",,1040,order_status
+1042,cust_776016ec,True,Thu Jul 04 12:18:00 +0000 2024,Where is my order #518801? It's been 5 days.,1043,,order_status
+1043,AmazonHelp,False,Thu Jul 04 13:23:00 +0000 2024,"Hi, sorry for the delay! Please check your tracking link here: amzn.to/track518801. We're looking into the delay with the carrier.",,1042,order_status
+1044,cust_4eaeccd3,True,Fri Aug 16 10:42:00 +0000 2024,Where is my order #195325? It's been 5 days.,1045,,order_status
+1045,AmazonHelp,False,Fri Aug 16 11:04:00 +0000 2024,"Hi, sorry for the delay! Please check your tracking link here: amzn.to/track195325. We're looking into the delay with the carrier.",,1044,order_status
+1046,cust_20095819,True,Mon May 20 02:08:00 +0000 2024,My package for order 930555 says it shipped but tracking is stuck.,1047,,order_status
+1047,AmazonHelp,False,Mon May 20 02:58:00 +0000 2024,"Hi, sorry for the delay! Please check your tracking link here: amzn.to/track930555. We're looking into the delay with the carrier.",,1046,order_status
+1048,cust_4d00ddb0,True,Sat Jul 20 10:09:00 +0000 2024,My package for order 724834 says it shipped but tracking is stuck.,1049,,order_status
+1049,AmazonHelp,False,Sat Jul 20 12:01:00 +0000 2024,"We understand the wait is frustrating. Your order 724834 is currently in transit, expected within 2 business days.",,1048,order_status
+1050,cust_352a8575,True,Sun Oct 06 20:07:00 +0000 2024,My package for order 112038 says it shipped but tracking is stuck.,1051,,order_status
+1051,AmazonHelp,False,Sun Oct 06 21:31:00 +0000 2024,"We understand the wait is frustrating. Your order 112038 is currently in transit, expected within 2 business days.",,1050,order_status
+1052,cust_10e7d924,True,Tue Feb 27 14:00:00 +0000 2024,Hey @AmazonHelp any update on order 456699? Tracking hasn't moved.,1053,,order_status
+1053,AmazonHelp,False,Tue Feb 27 15:00:00 +0000 2024,"We understand the wait is frustrating. Your order 456699 is currently in transit, expected within 2 business days.",,1052,order_status
+1054,cust_fe90106c,True,Wed Jul 03 20:11:00 +0000 2024,My package for order 103402 says it shipped but tracking is stuck.,1055,,order_status
+1055,AmazonHelp,False,Wed Jul 03 22:09:00 +0000 2024,"Hi, sorry for the delay! Please check your tracking link here: amzn.to/track103402. We're looking into the delay with the carrier.",,1054,order_status
+1056,cust_450f99c8,True,Sun Feb 25 15:31:00 +0000 2024,My package for order 211579 says it shipped but tracking is stuck.,1057,,order_status
+1057,AmazonHelp,False,Sun Feb 25 16:20:00 +0000 2024,"Hi, sorry for the delay! Please check your tracking link here: amzn.to/track211579. We're looking into the delay with the carrier.",,1056,order_status
+1058,cust_2b5bdba6,True,Tue Aug 06 01:39:00 +0000 2024,My package for order 899550 says it shipped but tracking is stuck.,1059,,order_status
+1059,AmazonHelp,False,Tue Aug 06 02:22:00 +0000 2024,"Hi, sorry for the delay! Please check your tracking link here: amzn.to/track899550. We're looking into the delay with the carrier.",,1058,order_status
+1060,cust_ff4db568,True,Fri Nov 15 22:23:00 +0000 2024,Where is my order #612340? It's been 5 days.,1061,,order_status
+1061,AmazonHelp,False,Sat Nov 16 00:11:00 +0000 2024,"We understand the wait is frustrating. Your order 612340 is currently in transit, expected within 2 business days.",,1060,order_status
+1062,cust_e63b4490,True,Thu Mar 28 16:46:00 +0000 2024,Where is my order #945964? It's been 5 days.,1063,,order_status
+1063,AmazonHelp,False,Thu Mar 28 18:40:00 +0000 2024,"Hi, sorry for the delay! Please check your tracking link here: amzn.to/track945964. We're looking into the delay with the carrier.",,1062,order_status
+1064,cust_4188abaf,True,Thu Oct 24 02:31:00 +0000 2024,Where is my order #694916? It's been 5 days.,1065,,order_status
+1065,AmazonHelp,False,Thu Oct 24 02:41:00 +0000 2024,"We understand the wait is frustrating. Your order 694916 is currently in transit, expected within 2 business days.",,1064,order_status
+1066,cust_8f94cb86,True,Tue Dec 10 17:41:00 +0000 2024,Where is my order #897549? It's been 5 days.,1067,,order_status
+1067,AmazonHelp,False,Tue Dec 10 18:53:00 +0000 2024,"We understand the wait is frustrating. Your order 897549 is currently in transit, expected within 2 business days.",,1066,order_status
+1068,cust_d222d687,True,Mon Mar 18 02:43:00 +0000 2024,My package for order 273148 says it shipped but tracking is stuck.,1069,,order_status
+1069,AmazonHelp,False,Mon Mar 18 04:43:00 +0000 2024,"We understand the wait is frustrating. Your order 273148 is currently in transit, expected within 2 business days.",,1068,order_status
+1070,cust_9a8070ec,True,Sat May 25 06:26:00 +0000 2024,My package for order 665492 says it shipped but tracking is stuck.,1071,,order_status
+1071,AmazonHelp,False,Sat May 25 07:53:00 +0000 2024,"We understand the wait is frustrating. Your order 665492 is currently in transit, expected within 2 business days.",,1070,order_status
+1072,cust_24d6da05,True,Wed Feb 14 01:21:00 +0000 2024,Hey @AmazonHelp any update on order 781446? Tracking hasn't moved.,1073,,order_status
+1073,AmazonHelp,False,Wed Feb 14 01:54:00 +0000 2024,"We understand the wait is frustrating. Your order 781446 is currently in transit, expected within 2 business days.",,1072,order_status
+1074,cust_92c97fd1,True,Fri Aug 02 04:43:00 +0000 2024,Hey @AmazonHelp any update on order 335612? Tracking hasn't moved.,1075,,order_status
+1075,AmazonHelp,False,Fri Aug 02 05:55:00 +0000 2024,"Hi, sorry for the delay! Please check your tracking link here: amzn.to/track335612. We're looking into the delay with the carrier.",,1074,order_status
+1076,cust_fd3bb743,True,Sat Sep 14 17:12:00 +0000 2024,Where is my order #341292? It's been 5 days.,1077,,order_status
+1077,AmazonHelp,False,Sat Sep 14 18:34:00 +0000 2024,"Hi, sorry for the delay! Please check your tracking link here: amzn.to/track341292. We're looking into the delay with the carrier.",,1076,order_status
+1078,cust_76ea491f,True,Fri Nov 08 23:36:00 +0000 2024,Where is my order #161733? It's been 5 days.,1079,,order_status
+1079,AmazonHelp,False,Sat Nov 09 00:20:00 +0000 2024,"Hi, sorry for the delay! Please check your tracking link here: amzn.to/track161733. We're looking into the delay with the carrier.",,1078,order_status
+1080,cust_4ccf6746,True,Tue Mar 19 00:01:00 +0000 2024,Delivery for 174299 marked as delivered but I never got it. This is unacceptable.,1081,,late_or_missing_delivery
+1081,AmazonHelp,False,Tue Mar 19 01:12:00 +0000 2024,Apologies for the inconvenience. We've flagged this with the carrier and will follow up with a resolution within 24 hours.,,1080,late_or_missing_delivery
+1082,cust_bdbfd208,True,Mon Oct 21 00:00:00 +0000 2024,My order 238739 was supposed to arrive yesterday and never showed up!,1083,,late_or_missing_delivery
+1083,AmazonHelp,False,Mon Oct 21 00:54:00 +0000 2024,Apologies for the inconvenience. We've flagged this with the carrier and will follow up with a resolution within 24 hours.,,1082,late_or_missing_delivery
+1084,cust_b6f58a78,True,Wed May 08 23:53:00 +0000 2024,My order 299659 was supposed to arrive yesterday and never showed up!,1085,,late_or_missing_delivery
+1085,AmazonHelp,False,Thu May 09 00:49:00 +0000 2024,Apologies for the inconvenience. We've flagged this with the carrier and will follow up with a resolution within 24 hours.,,1084,late_or_missing_delivery
+1086,cust_1d2e0cb1,True,Mon Sep 02 03:56:00 +0000 2024,@AmazonHelp package for 531071 is now 6 days late with no updates.,1087,,late_or_missing_delivery
+1087,AmazonHelp,False,Mon Sep 02 05:21:00 +0000 2024,We're really sorry to hear that. Please DM us your order number so we can investigate and arrange a replacement or refund.,,1086,late_or_missing_delivery
+1088,cust_94afd218,True,Sun Sep 22 03:13:00 +0000 2024,My order 777568 was supposed to arrive yesterday and never showed up!,1089,,late_or_missing_delivery
+1089,AmazonHelp,False,Sun Sep 22 03:58:00 +0000 2024,Apologies for the inconvenience. We've flagged this with the carrier and will follow up with a resolution within 24 hours.,,1088,late_or_missing_delivery
+1090,cust_4cc409d1,True,Sun Mar 10 06:04:00 +0000 2024,My order 939482 was supposed to arrive yesterday and never showed up!,1091,,late_or_missing_delivery
+1091,AmazonHelp,False,Sun Mar 10 07:14:00 +0000 2024,We're really sorry to hear that. Please DM us your order number so we can investigate and arrange a replacement or refund.,,1090,late_or_missing_delivery
+1092,cust_4c46f09c,True,Thu Apr 11 09:57:00 +0000 2024,Delivery for 570405 marked as delivered but I never got it. This is unacceptable.,1093,,late_or_missing_delivery
+1093,AmazonHelp,False,Thu Apr 11 10:58:00 +0000 2024,We're really sorry to hear that. Please DM us your order number so we can investigate and arrange a replacement or refund.,,1092,late_or_missing_delivery
+1094,cust_914a2a93,True,Fri Jan 19 10:02:00 +0000 2024,Delivery for 361941 marked as delivered but I never got it. This is unacceptable.,1095,,late_or_missing_delivery
+1095,AmazonHelp,False,Fri Jan 19 11:27:00 +0000 2024,We're really sorry to hear that. Please DM us your order number so we can investigate and arrange a replacement or refund.,,1094,late_or_missing_delivery
+1096,cust_8e870201,True,Fri Mar 01 13:14:00 +0000 2024,My order 666847 was supposed to arrive yesterday and never showed up!,1097,,late_or_missing_delivery
+1097,AmazonHelp,False,Fri Mar 01 14:08:00 +0000 2024,We're really sorry to hear that. Please DM us your order number so we can investigate and arrange a replacement or refund.,,1096,late_or_missing_delivery
+1098,cust_572406ab,True,Sun Nov 24 13:39:00 +0000 2024,My order 609231 was supposed to arrive yesterday and never showed up!,1099,,late_or_missing_delivery
+1099,AmazonHelp,False,Sun Nov 24 13:48:00 +0000 2024,Apologies for the inconvenience. We've flagged this with the carrier and will follow up with a resolution within 24 hours.,,1098,late_or_missing_delivery
+1100,cust_40ad0b84,True,Sat Apr 06 13:22:00 +0000 2024,My order 272634 was supposed to arrive yesterday and never showed up!,1101,,late_or_missing_delivery
+1101,AmazonHelp,False,Sat Apr 06 15:22:00 +0000 2024,Apologies for the inconvenience. We've flagged this with the carrier and will follow up with a resolution within 24 hours.,,1100,late_or_missing_delivery
+1102,cust_4f984d15,True,Tue Sep 10 14:54:00 +0000 2024,Delivery for 922157 marked as delivered but I never got it. This is unacceptable.,1103,,late_or_missing_delivery
+1103,AmazonHelp,False,Tue Sep 10 16:29:00 +0000 2024,Apologies for the inconvenience. We've flagged this with the carrier and will follow up with a resolution within 24 hours.,,1102,late_or_missing_delivery
+1104,cust_3dc69bf5,True,Thu Apr 18 00:40:00 +0000 2024,My order 921414 was supposed to arrive yesterday and never showed up!,1105,,late_or_missing_delivery
+1105,AmazonHelp,False,Thu Apr 18 01:09:00 +0000 2024,We're really sorry to hear that. Please DM us your order number so we can investigate and arrange a replacement or refund.,,1104,late_or_missing_delivery
+1106,cust_c1199294,True,Sun Jan 21 19:31:00 +0000 2024,@AmazonHelp package for 161324 is now 6 days late with no updates.,1107,,late_or_missing_delivery
+1107,AmazonHelp,False,Sun Jan 21 19:39:00 +0000 2024,Apologies for the inconvenience. We've flagged this with the carrier and will follow up with a resolution within 24 hours.,,1106,late_or_missing_delivery
+1108,cust_70e2570c,True,Sun Jan 21 17:01:00 +0000 2024,@AmazonHelp package for 712554 is now 6 days late with no updates.,1109,,late_or_missing_delivery
+1109,AmazonHelp,False,Sun Jan 21 18:08:00 +0000 2024,We're really sorry to hear that. Please DM us your order number so we can investigate and arrange a replacement or refund.,,1108,late_or_missing_delivery
+1110,cust_ef31474f,True,Mon Sep 02 20:05:00 +0000 2024,My order 184002 was supposed to arrive yesterday and never showed up!,1111,,late_or_missing_delivery
+1111,AmazonHelp,False,Mon Sep 02 21:57:00 +0000 2024,We're really sorry to hear that. Please DM us your order number so we can investigate and arrange a replacement or refund.,,1110,late_or_missing_delivery
+1112,cust_473ffdd2,True,Mon Jul 29 18:40:00 +0000 2024,My order 346629 was supposed to arrive yesterday and never showed up!,1113,,late_or_missing_delivery
+1113,AmazonHelp,False,Mon Jul 29 19:58:00 +0000 2024,We're really sorry to hear that. Please DM us your order number so we can investigate and arrange a replacement or refund.,,1112,late_or_missing_delivery
+1114,cust_cc56d78a,True,Fri Dec 06 07:35:00 +0000 2024,Delivery for 141672 marked as delivered but I never got it. This is unacceptable.,1115,,late_or_missing_delivery
+1115,AmazonHelp,False,Fri Dec 06 08:10:00 +0000 2024,Apologies for the inconvenience. We've flagged this with the carrier and will follow up with a resolution within 24 hours.,,1114,late_or_missing_delivery
+1116,cust_c21c48fc,True,Fri May 24 02:25:00 +0000 2024,My order 314181 was supposed to arrive yesterday and never showed up!,1117,,late_or_missing_delivery
+1117,AmazonHelp,False,Fri May 24 02:43:00 +0000 2024,Apologies for the inconvenience. We've flagged this with the carrier and will follow up with a resolution within 24 hours.,,1116,late_or_missing_delivery
+1118,cust_71be62ae,True,Wed Dec 04 05:53:00 +0000 2024,Delivery for 804318 marked as delivered but I never got it. This is unacceptable.,1119,,late_or_missing_delivery
+1119,AmazonHelp,False,Wed Dec 04 07:31:00 +0000 2024,Apologies for the inconvenience. We've flagged this with the carrier and will follow up with a resolution within 24 hours.,,1118,late_or_missing_delivery
+1120,cust_ac9bd99c,True,Sat Jan 27 16:09:00 +0000 2024,Delivery for 176066 marked as delivered but I never got it. This is unacceptable.,1121,,late_or_missing_delivery
+1121,AmazonHelp,False,Sat Jan 27 17:19:00 +0000 2024,We're really sorry to hear that. Please DM us your order number so we can investigate and arrange a replacement or refund.,,1120,late_or_missing_delivery
+1122,cust_ddcfed5d,True,Sat Nov 16 17:06:00 +0000 2024,My order 323508 was supposed to arrive yesterday and never showed up!,1123,,late_or_missing_delivery
+1123,AmazonHelp,False,Sat Nov 16 17:16:00 +0000 2024,Apologies for the inconvenience. We've flagged this with the carrier and will follow up with a resolution within 24 hours.,,1122,late_or_missing_delivery
+1124,cust_0296f99e,True,Sat Jun 08 12:54:00 +0000 2024,Delivery for 356150 marked as delivered but I never got it. This is unacceptable.,1125,,late_or_missing_delivery
+1125,AmazonHelp,False,Sat Jun 08 14:42:00 +0000 2024,We're really sorry to hear that. Please DM us your order number so we can investigate and arrange a replacement or refund.,,1124,late_or_missing_delivery
+1126,cust_b7deb7fc,True,Sat Aug 31 03:52:00 +0000 2024,@AmazonHelp package for 669605 is now 6 days late with no updates.,1127,,late_or_missing_delivery
+1127,AmazonHelp,False,Sat Aug 31 05:38:00 +0000 2024,We're really sorry to hear that. Please DM us your order number so we can investigate and arrange a replacement or refund.,,1126,late_or_missing_delivery
+1128,cust_2d1443c2,True,Sat Dec 07 20:29:00 +0000 2024,@AmazonHelp package for 681542 is now 6 days late with no updates.,1129,,late_or_missing_delivery
+1129,AmazonHelp,False,Sat Dec 07 22:23:00 +0000 2024,We're really sorry to hear that. Please DM us your order number so we can investigate and arrange a replacement or refund.,,1128,late_or_missing_delivery
+1130,cust_ef9f1741,True,Fri Sep 27 07:20:00 +0000 2024,My order 240814 was supposed to arrive yesterday and never showed up!,1131,,late_or_missing_delivery
+1131,AmazonHelp,False,Fri Sep 27 08:32:00 +0000 2024,We're really sorry to hear that. Please DM us your order number so we can investigate and arrange a replacement or refund.,,1130,late_or_missing_delivery
+1132,cust_6110b989,True,Wed Sep 18 06:35:00 +0000 2024,Delivery for 262998 marked as delivered but I never got it. This is unacceptable.,1133,,late_or_missing_delivery
+1133,AmazonHelp,False,Wed Sep 18 07:20:00 +0000 2024,We're really sorry to hear that. Please DM us your order number so we can investigate and arrange a replacement or refund.,,1132,late_or_missing_delivery
+1134,cust_304e0b55,True,Mon Apr 01 10:19:00 +0000 2024,@AmazonHelp package for 313487 is now 6 days late with no updates.,1135,,late_or_missing_delivery
+1135,AmazonHelp,False,Mon Apr 01 12:16:00 +0000 2024,Apologies for the inconvenience. We've flagged this with the carrier and will follow up with a resolution within 24 hours.,,1134,late_or_missing_delivery
+1136,cust_7a06db59,True,Mon Oct 28 22:57:00 +0000 2024,My order 987204 was supposed to arrive yesterday and never showed up!,1137,,late_or_missing_delivery
+1137,AmazonHelp,False,Mon Oct 28 23:34:00 +0000 2024,Apologies for the inconvenience. We've flagged this with the carrier and will follow up with a resolution within 24 hours.,,1136,late_or_missing_delivery
+1138,cust_09749495,True,Mon Aug 19 23:10:00 +0000 2024,Delivery for 146228 marked as delivered but I never got it. This is unacceptable.,1139,,late_or_missing_delivery
+1139,AmazonHelp,False,Mon Aug 19 23:45:00 +0000 2024,We're really sorry to hear that. Please DM us your order number so we can investigate and arrange a replacement or refund.,,1138,late_or_missing_delivery
+1140,cust_4ef775da,True,Tue Jul 23 05:16:00 +0000 2024,@AmazonHelp package for 269430 is now 6 days late with no updates.,1141,,late_or_missing_delivery
+1141,AmazonHelp,False,Tue Jul 23 05:19:00 +0000 2024,Apologies for the inconvenience. We've flagged this with the carrier and will follow up with a resolution within 24 hours.,,1140,late_or_missing_delivery
+1142,cust_ed0a6c80,True,Wed Jul 17 15:26:00 +0000 2024,@AmazonHelp package for 217308 is now 6 days late with no updates.,1143,,late_or_missing_delivery
+1143,AmazonHelp,False,Wed Jul 17 15:32:00 +0000 2024,We're really sorry to hear that. Please DM us your order number so we can investigate and arrange a replacement or refund.,,1142,late_or_missing_delivery
+1144,cust_f069acba,True,Wed Jun 05 11:32:00 +0000 2024,@AmazonHelp package for 975136 is now 6 days late with no updates.,1145,,late_or_missing_delivery
+1145,AmazonHelp,False,Wed Jun 05 11:50:00 +0000 2024,We're really sorry to hear that. Please DM us your order number so we can investigate and arrange a replacement or refund.,,1144,late_or_missing_delivery
+1146,cust_f66649dc,True,Sat Nov 23 06:55:00 +0000 2024,Delivery for 143860 marked as delivered but I never got it. This is unacceptable.,1147,,late_or_missing_delivery
+1147,AmazonHelp,False,Sat Nov 23 07:42:00 +0000 2024,We're really sorry to hear that. Please DM us your order number so we can investigate and arrange a replacement or refund.,,1146,late_or_missing_delivery
+1148,cust_aefe5ac2,True,Wed May 08 18:29:00 +0000 2024,@AmazonHelp package for 320281 is now 6 days late with no updates.,1149,,late_or_missing_delivery
+1149,AmazonHelp,False,Wed May 08 20:10:00 +0000 2024,We're really sorry to hear that. Please DM us your order number so we can investigate and arrange a replacement or refund.,,1148,late_or_missing_delivery
+1150,cust_d512dfa4,True,Tue Dec 03 01:26:00 +0000 2024,@AmazonHelp package for 687080 is now 6 days late with no updates.,1151,,late_or_missing_delivery
+1151,AmazonHelp,False,Tue Dec 03 01:58:00 +0000 2024,We're really sorry to hear that. Please DM us your order number so we can investigate and arrange a replacement or refund.,,1150,late_or_missing_delivery
+1152,cust_15d33e51,True,Wed Mar 06 07:16:00 +0000 2024,Delivery for 270395 marked as delivered but I never got it. This is unacceptable.,1153,,late_or_missing_delivery
+1153,AmazonHelp,False,Wed Mar 06 08:52:00 +0000 2024,We're really sorry to hear that. Please DM us your order number so we can investigate and arrange a replacement or refund.,,1152,late_or_missing_delivery
+1154,cust_af83268f,True,Sun Apr 07 03:23:00 +0000 2024,@AmazonHelp package for 448321 is now 6 days late with no updates.,1155,,late_or_missing_delivery
+1155,AmazonHelp,False,Sun Apr 07 03:45:00 +0000 2024,We're really sorry to hear that. Please DM us your order number so we can investigate and arrange a replacement or refund.,,1154,late_or_missing_delivery
+1156,cust_97d55f03,True,Fri Nov 08 14:30:00 +0000 2024,Delivery for 925622 marked as delivered but I never got it. This is unacceptable.,1157,,late_or_missing_delivery
+1157,AmazonHelp,False,Fri Nov 08 15:32:00 +0000 2024,We're really sorry to hear that. Please DM us your order number so we can investigate and arrange a replacement or refund.,,1156,late_or_missing_delivery
+1158,cust_a5cf08e2,True,Sun Apr 21 02:47:00 +0000 2024,Delivery for 333238 marked as delivered but I never got it. This is unacceptable.,1159,,late_or_missing_delivery
+1159,AmazonHelp,False,Sun Apr 21 04:34:00 +0000 2024,Apologies for the inconvenience. We've flagged this with the carrier and will follow up with a resolution within 24 hours.,,1158,late_or_missing_delivery
+1160,cust_70d36b43,True,Wed Aug 28 07:27:00 +0000 2024,"I ordered a blender and got a damaged box with broken glass inside, order 933980.",1161,,wrong_or_damaged_item
+1161,AmazonHelp,False,Wed Aug 28 07:53:00 +0000 2024,So sorry about that! Please reply with your order number and a photo via DM so we can process a replacement right away.,,1160,wrong_or_damaged_item
+1162,cust_e135a8d9,True,Tue Oct 08 13:25:00 +0000 2024,"Received the wrong item for order 517821, I ordered headphones and got a phone case.",1163,,wrong_or_damaged_item
+1163,AmazonHelp,False,Tue Oct 08 14:02:00 +0000 2024,So sorry about that! Please reply with your order number and a photo via DM so we can process a replacement right away.,,1162,wrong_or_damaged_item
+1164,cust_5e30b527,True,Sat Dec 07 23:10:00 +0000 2024,"Item 468203 arrived completely smashed, packaging was fine but the product is destroyed.",1165,,wrong_or_damaged_item
+1165,AmazonHelp,False,Sat Dec 07 23:15:00 +0000 2024,That's not the experience we want for you. We'll get a free replacement or refund started once you confirm your order ID.,,1164,wrong_or_damaged_item
+1166,cust_dcf9780e,True,Sun Jan 14 22:17:00 +0000 2024,"I ordered a blender and got a damaged box with broken glass inside, order 220944.",1167,,wrong_or_damaged_item
+1167,AmazonHelp,False,Sun Jan 14 22:32:00 +0000 2024,That's not the experience we want for you. We'll get a free replacement or refund started once you confirm your order ID.,,1166,wrong_or_damaged_item
+1168,cust_f49e31c5,True,Fri Jun 07 21:16:00 +0000 2024,"Received the wrong item for order 725550, I ordered headphones and got a phone case.",1169,,wrong_or_damaged_item
+1169,AmazonHelp,False,Fri Jun 07 22:35:00 +0000 2024,That's not the experience we want for you. We'll get a free replacement or refund started once you confirm your order ID.,,1168,wrong_or_damaged_item
+1170,cust_6c1ba415,True,Tue Apr 02 17:47:00 +0000 2024,"Received the wrong item for order 636265, I ordered headphones and got a phone case.",1171,,wrong_or_damaged_item
+1171,AmazonHelp,False,Tue Apr 02 17:54:00 +0000 2024,So sorry about that! Please reply with your order number and a photo via DM so we can process a replacement right away.,,1170,wrong_or_damaged_item
+1172,cust_7bf10395,True,Sun May 12 14:36:00 +0000 2024,"I ordered a blender and got a damaged box with broken glass inside, order 843215.",1173,,wrong_or_damaged_item
+1173,AmazonHelp,False,Sun May 12 15:33:00 +0000 2024,So sorry about that! Please reply with your order number and a photo via DM so we can process a replacement right away.,,1172,wrong_or_damaged_item
+1174,cust_c9865fcb,True,Thu Aug 29 12:46:00 +0000 2024,"Item 173372 arrived completely smashed, packaging was fine but the product is destroyed.",1175,,wrong_or_damaged_item
+1175,AmazonHelp,False,Thu Aug 29 14:36:00 +0000 2024,That's not the experience we want for you. We'll get a free replacement or refund started once you confirm your order ID.,,1174,wrong_or_damaged_item
+1176,cust_53a0b7a7,True,Fri Aug 30 19:23:00 +0000 2024,"Item 230679 arrived completely smashed, packaging was fine but the product is destroyed.",1177,,wrong_or_damaged_item
+1177,AmazonHelp,False,Fri Aug 30 20:17:00 +0000 2024,That's not the experience we want for you. We'll get a free replacement or refund started once you confirm your order ID.,,1176,wrong_or_damaged_item
+1178,cust_a6d3bbd0,True,Sat Jul 20 20:31:00 +0000 2024,"Item 442027 arrived completely smashed, packaging was fine but the product is destroyed.",1179,,wrong_or_damaged_item
+1179,AmazonHelp,False,Sat Jul 20 20:49:00 +0000 2024,That's not the experience we want for you. We'll get a free replacement or refund started once you confirm your order ID.,,1178,wrong_or_damaged_item
+1180,cust_d93bce3d,True,Tue Sep 03 14:29:00 +0000 2024,"Item 301158 arrived completely smashed, packaging was fine but the product is destroyed.",1181,,wrong_or_damaged_item
+1181,AmazonHelp,False,Tue Sep 03 16:06:00 +0000 2024,That's not the experience we want for you. We'll get a free replacement or refund started once you confirm your order ID.,,1180,wrong_or_damaged_item
+1182,cust_f9df1ac9,True,Sat Apr 20 15:17:00 +0000 2024,"Received the wrong item for order 282480, I ordered headphones and got a phone case.",1183,,wrong_or_damaged_item
+1183,AmazonHelp,False,Sat Apr 20 15:55:00 +0000 2024,So sorry about that! Please reply with your order number and a photo via DM so we can process a replacement right away.,,1182,wrong_or_damaged_item
+1184,cust_c3414ce0,True,Tue Jun 18 07:07:00 +0000 2024,"Item 320392 arrived completely smashed, packaging was fine but the product is destroyed.",1185,,wrong_or_damaged_item
+1185,AmazonHelp,False,Tue Jun 18 08:05:00 +0000 2024,That's not the experience we want for you. We'll get a free replacement or refund started once you confirm your order ID.,,1184,wrong_or_damaged_item
+1186,cust_6eb96e95,True,Tue Oct 15 23:45:00 +0000 2024,"Item 563638 arrived completely smashed, packaging was fine but the product is destroyed.",1187,,wrong_or_damaged_item
+1187,AmazonHelp,False,Wed Oct 16 01:42:00 +0000 2024,That's not the experience we want for you. We'll get a free replacement or refund started once you confirm your order ID.,,1186,wrong_or_damaged_item
+1188,cust_82c47aa8,True,Sat Apr 13 07:45:00 +0000 2024,"Item 934692 arrived completely smashed, packaging was fine but the product is destroyed.",1189,,wrong_or_damaged_item
+1189,AmazonHelp,False,Sat Apr 13 08:52:00 +0000 2024,So sorry about that! Please reply with your order number and a photo via DM so we can process a replacement right away.,,1188,wrong_or_damaged_item
+1190,cust_2e81560d,True,Sun Sep 01 22:58:00 +0000 2024,"I ordered a blender and got a damaged box with broken glass inside, order 796101.",1191,,wrong_or_damaged_item
+1191,AmazonHelp,False,Sun Sep 01 23:39:00 +0000 2024,So sorry about that! Please reply with your order number and a photo via DM so we can process a replacement right away.,,1190,wrong_or_damaged_item
+1192,cust_ff5ee595,True,Wed Jan 17 19:49:00 +0000 2024,"I ordered a blender and got a damaged box with broken glass inside, order 335552.",1193,,wrong_or_damaged_item
+1193,AmazonHelp,False,Wed Jan 17 20:22:00 +0000 2024,So sorry about that! Please reply with your order number and a photo via DM so we can process a replacement right away.,,1192,wrong_or_damaged_item
+1194,cust_a8508919,True,Mon Nov 18 15:10:00 +0000 2024,"Received the wrong item for order 598216, I ordered headphones and got a phone case.",1195,,wrong_or_damaged_item
+1195,AmazonHelp,False,Mon Nov 18 16:32:00 +0000 2024,That's not the experience we want for you. We'll get a free replacement or refund started once you confirm your order ID.,,1194,wrong_or_damaged_item
+1196,cust_397d6080,True,Fri Jun 28 23:56:00 +0000 2024,"Item 703634 arrived completely smashed, packaging was fine but the product is destroyed.",1197,,wrong_or_damaged_item
+1197,AmazonHelp,False,Sat Jun 29 00:49:00 +0000 2024,That's not the experience we want for you. We'll get a free replacement or refund started once you confirm your order ID.,,1196,wrong_or_damaged_item
+1198,cust_dc4dbd6c,True,Thu Nov 21 00:10:00 +0000 2024,"Item 355836 arrived completely smashed, packaging was fine but the product is destroyed.",1199,,wrong_or_damaged_item
+1199,AmazonHelp,False,Thu Nov 21 01:48:00 +0000 2024,So sorry about that! Please reply with your order number and a photo via DM so we can process a replacement right away.,,1198,wrong_or_damaged_item
+1200,cust_157b70e1,True,Tue Mar 05 00:55:00 +0000 2024,"Received the wrong item for order 907451, I ordered headphones and got a phone case.",1201,,wrong_or_damaged_item
+1201,AmazonHelp,False,Tue Mar 05 02:39:00 +0000 2024,So sorry about that! Please reply with your order number and a photo via DM so we can process a replacement right away.,,1200,wrong_or_damaged_item
+1202,cust_1ee0b2fe,True,Sat Nov 30 00:58:00 +0000 2024,"I ordered a blender and got a damaged box with broken glass inside, order 829716.",1203,,wrong_or_damaged_item
+1203,AmazonHelp,False,Sat Nov 30 02:48:00 +0000 2024,So sorry about that! Please reply with your order number and a photo via DM so we can process a replacement right away.,,1202,wrong_or_damaged_item
+1204,cust_3a607330,True,Sat Aug 31 01:22:00 +0000 2024,"I ordered a blender and got a damaged box with broken glass inside, order 227253.",1205,,wrong_or_damaged_item
+1205,AmazonHelp,False,Sat Aug 31 02:31:00 +0000 2024,That's not the experience we want for you. We'll get a free replacement or refund started once you confirm your order ID.,,1204,wrong_or_damaged_item
+1206,cust_95cbf292,True,Tue Oct 29 09:37:00 +0000 2024,"Received the wrong item for order 686075, I ordered headphones and got a phone case.",1207,,wrong_or_damaged_item
+1207,AmazonHelp,False,Tue Oct 29 11:35:00 +0000 2024,That's not the experience we want for you. We'll get a free replacement or refund started once you confirm your order ID.,,1206,wrong_or_damaged_item
+1208,cust_c16625cb,True,Wed Jun 12 20:46:00 +0000 2024,"I ordered a blender and got a damaged box with broken glass inside, order 674485.",1209,,wrong_or_damaged_item
+1209,AmazonHelp,False,Wed Jun 12 21:21:00 +0000 2024,That's not the experience we want for you. We'll get a free replacement or refund started once you confirm your order ID.,,1208,wrong_or_damaged_item
+1210,cust_79bf5991,True,Sat Oct 05 19:46:00 +0000 2024,"Item 888295 arrived completely smashed, packaging was fine but the product is destroyed.",1211,,wrong_or_damaged_item
+1211,AmazonHelp,False,Sat Oct 05 21:27:00 +0000 2024,That's not the experience we want for you. We'll get a free replacement or refund started once you confirm your order ID.,,1210,wrong_or_damaged_item
+1212,cust_8073270d,True,Tue Apr 09 23:28:00 +0000 2024,"Item 646622 arrived completely smashed, packaging was fine but the product is destroyed.",1213,,wrong_or_damaged_item
+1213,AmazonHelp,False,Wed Apr 10 00:26:00 +0000 2024,So sorry about that! Please reply with your order number and a photo via DM so we can process a replacement right away.,,1212,wrong_or_damaged_item
+1214,cust_3b18d483,True,Thu May 02 06:40:00 +0000 2024,"I ordered a blender and got a damaged box with broken glass inside, order 181247.",1215,,wrong_or_damaged_item
+1215,AmazonHelp,False,Thu May 02 07:22:00 +0000 2024,That's not the experience we want for you. We'll get a free replacement or refund started once you confirm your order ID.,,1214,wrong_or_damaged_item
+1216,cust_91d0bc24,True,Mon Mar 25 04:47:00 +0000 2024,"I ordered a blender and got a damaged box with broken glass inside, order 666390.",1217,,wrong_or_damaged_item
+1217,AmazonHelp,False,Mon Mar 25 05:38:00 +0000 2024,So sorry about that! Please reply with your order number and a photo via DM so we can process a replacement right away.,,1216,wrong_or_damaged_item
+1218,cust_dc93fd42,True,Wed Jan 24 09:14:00 +0000 2024,"Item 827659 arrived completely smashed, packaging was fine but the product is destroyed.",1219,,wrong_or_damaged_item
+1219,AmazonHelp,False,Wed Jan 24 10:09:00 +0000 2024,So sorry about that! Please reply with your order number and a photo via DM so we can process a replacement right away.,,1218,wrong_or_damaged_item
+1220,cust_a534167d,True,Fri May 31 09:05:00 +0000 2024,"Item 527398 arrived completely smashed, packaging was fine but the product is destroyed.",1221,,wrong_or_damaged_item
+1221,AmazonHelp,False,Fri May 31 09:14:00 +0000 2024,That's not the experience we want for you. We'll get a free replacement or refund started once you confirm your order ID.,,1220,wrong_or_damaged_item
+1222,cust_b0663715,True,Thu Nov 07 22:14:00 +0000 2024,"Received the wrong item for order 316881, I ordered headphones and got a phone case.",1223,,wrong_or_damaged_item
+1223,AmazonHelp,False,Fri Nov 08 00:08:00 +0000 2024,So sorry about that! Please reply with your order number and a photo via DM so we can process a replacement right away.,,1222,wrong_or_damaged_item
+1224,cust_bd8a248e,True,Mon Dec 09 05:48:00 +0000 2024,"Received the wrong item for order 902784, I ordered headphones and got a phone case.",1225,,wrong_or_damaged_item
+1225,AmazonHelp,False,Mon Dec 09 06:35:00 +0000 2024,So sorry about that! Please reply with your order number and a photo via DM so we can process a replacement right away.,,1224,wrong_or_damaged_item
+1226,cust_d9a2b6a7,True,Wed Jun 26 18:12:00 +0000 2024,"Received the wrong item for order 413118, I ordered headphones and got a phone case.",1227,,wrong_or_damaged_item
+1227,AmazonHelp,False,Wed Jun 26 18:42:00 +0000 2024,So sorry about that! Please reply with your order number and a photo via DM so we can process a replacement right away.,,1226,wrong_or_damaged_item
+1228,cust_48674a34,True,Tue May 21 13:53:00 +0000 2024,"Received the wrong item for order 386193, I ordered headphones and got a phone case.",1229,,wrong_or_damaged_item
+1229,AmazonHelp,False,Tue May 21 14:38:00 +0000 2024,So sorry about that! Please reply with your order number and a photo via DM so we can process a replacement right away.,,1228,wrong_or_damaged_item
+1230,cust_9d13102d,True,Sat Nov 02 00:27:00 +0000 2024,"Item 801364 arrived completely smashed, packaging was fine but the product is destroyed.",1231,,wrong_or_damaged_item
+1231,AmazonHelp,False,Sat Nov 02 01:28:00 +0000 2024,So sorry about that! Please reply with your order number and a photo via DM so we can process a replacement right away.,,1230,wrong_or_damaged_item
+1232,cust_8e88b38f,True,Wed Jan 31 13:32:00 +0000 2024,"Received the wrong item for order 233827, I ordered headphones and got a phone case.",1233,,wrong_or_damaged_item
+1233,AmazonHelp,False,Wed Jan 31 14:56:00 +0000 2024,So sorry about that! Please reply with your order number and a photo via DM so we can process a replacement right away.,,1232,wrong_or_damaged_item
+1234,cust_df330855,True,Fri Jan 19 07:23:00 +0000 2024,"Received the wrong item for order 549433, I ordered headphones and got a phone case.",1235,,wrong_or_damaged_item
+1235,AmazonHelp,False,Fri Jan 19 07:58:00 +0000 2024,So sorry about that! Please reply with your order number and a photo via DM so we can process a replacement right away.,,1234,wrong_or_damaged_item
+1236,cust_2d4effbb,True,Mon Apr 29 00:01:00 +0000 2024,"I ordered a blender and got a damaged box with broken glass inside, order 497519.",1237,,wrong_or_damaged_item
+1237,AmazonHelp,False,Mon Apr 29 00:46:00 +0000 2024,That's not the experience we want for you. We'll get a free replacement or refund started once you confirm your order ID.,,1236,wrong_or_damaged_item
+1238,cust_c529b78d,True,Mon Apr 01 20:22:00 +0000 2024,"Received the wrong item for order 898207, I ordered headphones and got a phone case.",1239,,wrong_or_damaged_item
+1239,AmazonHelp,False,Mon Apr 01 22:10:00 +0000 2024,That's not the experience we want for you. We'll get a free replacement or refund started once you confirm your order ID.,,1238,wrong_or_damaged_item
+1240,cust_b4a108ed,True,Thu Dec 12 14:00:00 +0000 2024,I returned order 185884 two weeks ago and still no refund.,1241,,refund_or_return
+1241,AmazonHelp,False,Thu Dec 12 14:46:00 +0000 2024,We can help with that. Refunds typically take 3-5 business days once the return is received. Let us know your order ID via DM.,,1240,refund_or_return
+1242,cust_5e8d78b1,True,Tue Oct 01 14:35:00 +0000 2024,Can I get a return label for order 335113? Wrong size.,1243,,refund_or_return
+1243,AmazonHelp,False,Tue Oct 01 14:40:00 +0000 2024,We can help with that. Refunds typically take 3-5 business days once the return is received. Let us know your order ID via DM.,,1242,refund_or_return
+1244,cust_b5f03ba8,True,Wed Mar 27 20:26:00 +0000 2024,I returned order 359295 two weeks ago and still no refund.,1245,,refund_or_return
+1245,AmazonHelp,False,Wed Mar 27 20:44:00 +0000 2024,We can help with that. Refunds typically take 3-5 business days once the return is received. Let us know your order ID via DM.,,1244,refund_or_return
+1246,cust_5e898064,True,Tue Jun 18 07:31:00 +0000 2024,Can I get a return label for order 596564? Wrong size.,1247,,refund_or_return
+1247,AmazonHelp,False,Tue Jun 18 09:02:00 +0000 2024,We can help with that. Refunds typically take 3-5 business days once the return is received. Let us know your order ID via DM.,,1246,refund_or_return
+1248,cust_aebe1d0d,True,Thu Oct 10 04:26:00 +0000 2024,I returned order 368690 two weeks ago and still no refund.,1249,,refund_or_return
+1249,AmazonHelp,False,Thu Oct 10 06:12:00 +0000 2024,We can help with that. Refunds typically take 3-5 business days once the return is received. Let us know your order ID via DM.,,1248,refund_or_return
+1250,cust_1fd97aba,True,Wed Dec 04 04:44:00 +0000 2024,I returned order 271720 two weeks ago and still no refund.,1251,,refund_or_return
+1251,AmazonHelp,False,Wed Dec 04 05:25:00 +0000 2024,We can help with that. Refunds typically take 3-5 business days once the return is received. Let us know your order ID via DM.,,1250,refund_or_return
+1252,cust_22723f61,True,Sun Jan 28 16:04:00 +0000 2024,"Requesting a refund for 703766, item doesn't match the description at all.",1253,,refund_or_return
+1253,AmazonHelp,False,Sun Jan 28 17:21:00 +0000 2024,We can help with that. Refunds typically take 3-5 business days once the return is received. Let us know your order ID via DM.,,1252,refund_or_return
+1254,cust_507b9af8,True,Tue Nov 05 13:58:00 +0000 2024,I returned order 824161 two weeks ago and still no refund.,1255,,refund_or_return
+1255,AmazonHelp,False,Tue Nov 05 15:27:00 +0000 2024,"You're welcome to start a return from Your Orders page, or DM us the order number and we'll generate a label for you.",,1254,refund_or_return
+1256,cust_da0294c3,True,Mon May 06 09:54:00 +0000 2024,Can I get a return label for order 729577? Wrong size.,1257,,refund_or_return
+1257,AmazonHelp,False,Mon May 06 11:04:00 +0000 2024,We can help with that. Refunds typically take 3-5 business days once the return is received. Let us know your order ID via DM.,,1256,refund_or_return
+1258,cust_e8d471b0,True,Fri Jan 05 14:33:00 +0000 2024,I returned order 549186 two weeks ago and still no refund.,1259,,refund_or_return
+1259,AmazonHelp,False,Fri Jan 05 16:23:00 +0000 2024,"You're welcome to start a return from Your Orders page, or DM us the order number and we'll generate a label for you.",,1258,refund_or_return
+1260,cust_40d59833,True,Sat May 11 20:50:00 +0000 2024,I returned order 540463 two weeks ago and still no refund.,1261,,refund_or_return
+1261,AmazonHelp,False,Sat May 11 22:13:00 +0000 2024,"You're welcome to start a return from Your Orders page, or DM us the order number and we'll generate a label for you.",,1260,refund_or_return
+1262,cust_8385ab97,True,Fri Jun 07 13:20:00 +0000 2024,Can I get a return label for order 968962? Wrong size.,1263,,refund_or_return
+1263,AmazonHelp,False,Fri Jun 07 13:44:00 +0000 2024,We can help with that. Refunds typically take 3-5 business days once the return is received. Let us know your order ID via DM.,,1262,refund_or_return
+1264,cust_edfc0cc5,True,Tue Jun 18 06:07:00 +0000 2024,Can I get a return label for order 869440? Wrong size.,1265,,refund_or_return
+1265,AmazonHelp,False,Tue Jun 18 07:04:00 +0000 2024,"You're welcome to start a return from Your Orders page, or DM us the order number and we'll generate a label for you.",,1264,refund_or_return
+1266,cust_1dd7c568,True,Tue Oct 29 11:02:00 +0000 2024,"Requesting a refund for 965845, item doesn't match the description at all.",1267,,refund_or_return
+1267,AmazonHelp,False,Tue Oct 29 11:15:00 +0000 2024,We can help with that. Refunds typically take 3-5 business days once the return is received. Let us know your order ID via DM.,,1266,refund_or_return
+1268,cust_b660b033,True,Fri Jul 26 11:25:00 +0000 2024,I returned order 392477 two weeks ago and still no refund.,1269,,refund_or_return
+1269,AmazonHelp,False,Fri Jul 26 12:45:00 +0000 2024,"You're welcome to start a return from Your Orders page, or DM us the order number and we'll generate a label for you.",,1268,refund_or_return
+1270,cust_82efd957,True,Fri Jun 28 23:18:00 +0000 2024,"Requesting a refund for 800646, item doesn't match the description at all.",1271,,refund_or_return
+1271,AmazonHelp,False,Sat Jun 29 01:08:00 +0000 2024,We can help with that. Refunds typically take 3-5 business days once the return is received. Let us know your order ID via DM.,,1270,refund_or_return
+1272,cust_b80be8b6,True,Thu May 09 04:30:00 +0000 2024,"Requesting a refund for 440802, item doesn't match the description at all.",1273,,refund_or_return
+1273,AmazonHelp,False,Thu May 09 06:14:00 +0000 2024,We can help with that. Refunds typically take 3-5 business days once the return is received. Let us know your order ID via DM.,,1272,refund_or_return
+1274,cust_98ad3ecb,True,Sun Jul 21 08:34:00 +0000 2024,"Requesting a refund for 370902, item doesn't match the description at all.",1275,,refund_or_return
+1275,AmazonHelp,False,Sun Jul 21 08:37:00 +0000 2024,"You're welcome to start a return from Your Orders page, or DM us the order number and we'll generate a label for you.",,1274,refund_or_return
+1276,cust_a80730de,True,Thu Sep 19 04:06:00 +0000 2024,I returned order 641722 two weeks ago and still no refund.,1277,,refund_or_return
+1277,AmazonHelp,False,Thu Sep 19 05:00:00 +0000 2024,We can help with that. Refunds typically take 3-5 business days once the return is received. Let us know your order ID via DM.,,1276,refund_or_return
+1278,cust_46e6ba34,True,Fri Aug 23 03:59:00 +0000 2024,Can I get a return label for order 612311? Wrong size.,1279,,refund_or_return
+1279,AmazonHelp,False,Fri Aug 23 05:32:00 +0000 2024,"You're welcome to start a return from Your Orders page, or DM us the order number and we'll generate a label for you.",,1278,refund_or_return
+1280,cust_6a54590a,True,Wed Apr 17 03:04:00 +0000 2024,I returned order 614663 two weeks ago and still no refund.,1281,,refund_or_return
+1281,AmazonHelp,False,Wed Apr 17 03:34:00 +0000 2024,We can help with that. Refunds typically take 3-5 business days once the return is received. Let us know your order ID via DM.,,1280,refund_or_return
+1282,cust_9edc0ad7,True,Fri Jun 21 07:24:00 +0000 2024,"Requesting a refund for 524045, item doesn't match the description at all.",1283,,refund_or_return
+1283,AmazonHelp,False,Fri Jun 21 08:36:00 +0000 2024,"You're welcome to start a return from Your Orders page, or DM us the order number and we'll generate a label for you.",,1282,refund_or_return
+1284,cust_7522b4e6,True,Wed May 08 02:10:00 +0000 2024,"Requesting a refund for 656711, item doesn't match the description at all.",1285,,refund_or_return
+1285,AmazonHelp,False,Wed May 08 03:41:00 +0000 2024,"You're welcome to start a return from Your Orders page, or DM us the order number and we'll generate a label for you.",,1284,refund_or_return
+1286,cust_48476a7a,True,Sun Mar 24 22:28:00 +0000 2024,"Requesting a refund for 575786, item doesn't match the description at all.",1287,,refund_or_return
+1287,AmazonHelp,False,Sun Mar 24 22:45:00 +0000 2024,"You're welcome to start a return from Your Orders page, or DM us the order number and we'll generate a label for you.",,1286,refund_or_return
+1288,cust_2ac8c9a9,True,Fri Sep 27 11:23:00 +0000 2024,"Requesting a refund for 856321, item doesn't match the description at all.",1289,,refund_or_return
+1289,AmazonHelp,False,Fri Sep 27 12:33:00 +0000 2024,We can help with that. Refunds typically take 3-5 business days once the return is received. Let us know your order ID via DM.,,1288,refund_or_return
+1290,cust_0ddbe991,True,Wed Sep 25 22:01:00 +0000 2024,I returned order 899213 two weeks ago and still no refund.,1291,,refund_or_return
+1291,AmazonHelp,False,Wed Sep 25 23:04:00 +0000 2024,We can help with that. Refunds typically take 3-5 business days once the return is received. Let us know your order ID via DM.,,1290,refund_or_return
+1292,cust_b979ab74,True,Wed Apr 17 20:38:00 +0000 2024,I returned order 389930 two weeks ago and still no refund.,1293,,refund_or_return
+1293,AmazonHelp,False,Wed Apr 17 21:09:00 +0000 2024,We can help with that. Refunds typically take 3-5 business days once the return is received. Let us know your order ID via DM.,,1292,refund_or_return
+1294,cust_757be0e5,True,Sat Sep 14 18:45:00 +0000 2024,"Requesting a refund for 478411, item doesn't match the description at all.",1295,,refund_or_return
+1295,AmazonHelp,False,Sat Sep 14 19:55:00 +0000 2024,We can help with that. Refunds typically take 3-5 business days once the return is received. Let us know your order ID via DM.,,1294,refund_or_return
+1296,cust_d0874321,True,Sat Jul 20 11:19:00 +0000 2024,I returned order 232731 two weeks ago and still no refund.,1297,,refund_or_return
+1297,AmazonHelp,False,Sat Jul 20 11:58:00 +0000 2024,We can help with that. Refunds typically take 3-5 business days once the return is received. Let us know your order ID via DM.,,1296,refund_or_return
+1298,cust_1aeca4c6,True,Wed Feb 07 08:25:00 +0000 2024,Can I get a return label for order 831295? Wrong size.,1299,,refund_or_return
+1299,AmazonHelp,False,Wed Feb 07 10:18:00 +0000 2024,"You're welcome to start a return from Your Orders page, or DM us the order number and we'll generate a label for you.",,1298,refund_or_return
+1300,cust_07717c9e,True,Sun Jun 09 08:52:00 +0000 2024,"Requesting a refund for 112861, item doesn't match the description at all.",1301,,refund_or_return
+1301,AmazonHelp,False,Sun Jun 09 09:37:00 +0000 2024,"You're welcome to start a return from Your Orders page, or DM us the order number and we'll generate a label for you.",,1300,refund_or_return
+1302,cust_24ff8025,True,Sun Feb 11 12:54:00 +0000 2024,"Requesting a refund for 293319, item doesn't match the description at all.",1303,,refund_or_return
+1303,AmazonHelp,False,Sun Feb 11 14:41:00 +0000 2024,"You're welcome to start a return from Your Orders page, or DM us the order number and we'll generate a label for you.",,1302,refund_or_return
+1304,cust_84b52346,True,Mon Jul 29 02:05:00 +0000 2024,"Requesting a refund for 168517, item doesn't match the description at all.",1305,,refund_or_return
+1305,AmazonHelp,False,Mon Jul 29 03:27:00 +0000 2024,We can help with that. Refunds typically take 3-5 business days once the return is received. Let us know your order ID via DM.,,1304,refund_or_return
+1306,cust_54b16189,True,Tue Oct 22 07:52:00 +0000 2024,I returned order 819796 two weeks ago and still no refund.,1307,,refund_or_return
+1307,AmazonHelp,False,Tue Oct 22 09:06:00 +0000 2024,We can help with that. Refunds typically take 3-5 business days once the return is received. Let us know your order ID via DM.,,1306,refund_or_return
+1308,cust_e53fbcf2,True,Mon Jul 22 04:30:00 +0000 2024,I returned order 418594 two weeks ago and still no refund.,1309,,refund_or_return
+1309,AmazonHelp,False,Mon Jul 22 06:09:00 +0000 2024,We can help with that. Refunds typically take 3-5 business days once the return is received. Let us know your order ID via DM.,,1308,refund_or_return
+1310,cust_b85e4f15,True,Thu Jun 13 00:39:00 +0000 2024,Can I get a return label for order 536390? Wrong size.,1311,,refund_or_return
+1311,AmazonHelp,False,Thu Jun 13 02:37:00 +0000 2024,"You're welcome to start a return from Your Orders page, or DM us the order number and we'll generate a label for you.",,1310,refund_or_return
+1312,cust_fad6fdbd,True,Sun Apr 21 04:27:00 +0000 2024,Can I get a return label for order 564226? Wrong size.,1313,,refund_or_return
+1313,AmazonHelp,False,Sun Apr 21 05:41:00 +0000 2024,"You're welcome to start a return from Your Orders page, or DM us the order number and we'll generate a label for you.",,1312,refund_or_return
+1314,cust_fae72a6e,True,Wed Dec 11 00:10:00 +0000 2024,Can I get a return label for order 751194? Wrong size.,1315,,refund_or_return
+1315,AmazonHelp,False,Wed Dec 11 01:49:00 +0000 2024,We can help with that. Refunds typically take 3-5 business days once the return is received. Let us know your order ID via DM.,,1314,refund_or_return
+1316,cust_fb46c050,True,Tue Feb 27 04:23:00 +0000 2024,"Requesting a refund for 317881, item doesn't match the description at all.",1317,,refund_or_return
+1317,AmazonHelp,False,Tue Feb 27 04:55:00 +0000 2024,We can help with that. Refunds typically take 3-5 business days once the return is received. Let us know your order ID via DM.,,1316,refund_or_return
+1318,cust_f4647bf8,True,Tue May 28 17:40:00 +0000 2024,I returned order 282256 two weeks ago and still no refund.,1319,,refund_or_return
+1319,AmazonHelp,False,Tue May 28 18:39:00 +0000 2024,We can help with that. Refunds typically take 3-5 business days once the return is received. Let us know your order ID via DM.,,1318,refund_or_return
+1320,cust_151dddb3,True,Mon Mar 25 06:40:00 +0000 2024,"There's an unauthorized charge on my card labeled Amazon, order 822858, I never bought this.",1321,,billing_dispute
+1321,AmazonHelp,False,Mon Mar 25 07:18:00 +0000 2024,We take this seriously. Please DM your order number and the charge details so our billing team can investigate immediately.,,1320,billing_dispute
+1322,cust_20f53102,True,Fri Jan 26 21:58:00 +0000 2024,Why was I billed $15 more than the listed price for 841296?,1323,,billing_dispute
+1323,AmazonHelp,False,Fri Jan 26 23:27:00 +0000 2024,Sorry for the confusion. Can you send us the order ID via DM so we can review the charge and correct it if needed?,,1322,billing_dispute
+1324,cust_d3e86591,True,Mon Jun 03 18:55:00 +0000 2024,Why was I billed $15 more than the listed price for 344762?,1325,,billing_dispute
+1325,AmazonHelp,False,Mon Jun 03 19:11:00 +0000 2024,We take this seriously. Please DM your order number and the charge details so our billing team can investigate immediately.,,1324,billing_dispute
+1326,cust_f6bce367,True,Tue Nov 26 17:49:00 +0000 2024,Why was I billed $10 more than the listed price for 671015?,1327,,billing_dispute
+1327,AmazonHelp,False,Tue Nov 26 18:25:00 +0000 2024,We take this seriously. Please DM your order number and the charge details so our billing team can investigate immediately.,,1326,billing_dispute
+1328,cust_bedb1311,True,Fri Mar 01 09:51:00 +0000 2024,"I was charged twice for order 966785, this is fraud, fix it now.",1329,,billing_dispute
+1329,AmazonHelp,False,Fri Mar 01 11:34:00 +0000 2024,We take this seriously. Please DM your order number and the charge details so our billing team can investigate immediately.,,1328,billing_dispute
+1330,cust_caa56387,True,Wed Jun 19 15:32:00 +0000 2024,"There's an unauthorized charge on my card labeled Amazon, order 422554, I never bought this.",1331,,billing_dispute
+1331,AmazonHelp,False,Wed Jun 19 17:02:00 +0000 2024,We take this seriously. Please DM your order number and the charge details so our billing team can investigate immediately.,,1330,billing_dispute
+1332,cust_d2266bcf,True,Sat Jun 08 09:11:00 +0000 2024,"There's an unauthorized charge on my card labeled Amazon, order 418862, I never bought this.",1333,,billing_dispute
+1333,AmazonHelp,False,Sat Jun 08 09:23:00 +0000 2024,Sorry for the confusion. Can you send us the order ID via DM so we can review the charge and correct it if needed?,,1332,billing_dispute
+1334,cust_4a59db3f,True,Wed Aug 07 19:19:00 +0000 2024,"There's an unauthorized charge on my card labeled Amazon, order 727086, I never bought this.",1335,,billing_dispute
+1335,AmazonHelp,False,Wed Aug 07 19:53:00 +0000 2024,Sorry for the confusion. Can you send us the order ID via DM so we can review the charge and correct it if needed?,,1334,billing_dispute
+1336,cust_7f1b42c7,True,Sat Oct 05 10:34:00 +0000 2024,"I was charged twice for order 127121, this is fraud, fix it now.",1337,,billing_dispute
+1337,AmazonHelp,False,Sat Oct 05 12:02:00 +0000 2024,We take this seriously. Please DM your order number and the charge details so our billing team can investigate immediately.,,1336,billing_dispute
+1338,cust_8d4d3c61,True,Fri Oct 04 20:08:00 +0000 2024,Why was I billed $15 more than the listed price for 961322?,1339,,billing_dispute
+1339,AmazonHelp,False,Fri Oct 04 21:46:00 +0000 2024,We take this seriously. Please DM your order number and the charge details so our billing team can investigate immediately.,,1338,billing_dispute
+1340,cust_c880e502,True,Fri Nov 29 12:45:00 +0000 2024,Why was I billed $20 more than the listed price for 283700?,1341,,billing_dispute
+1341,AmazonHelp,False,Fri Nov 29 13:22:00 +0000 2024,Sorry for the confusion. Can you send us the order ID via DM so we can review the charge and correct it if needed?,,1340,billing_dispute
+1342,cust_b649d8c0,True,Sat Feb 03 05:17:00 +0000 2024,Why was I billed $20 more than the listed price for 290305?,1343,,billing_dispute
+1343,AmazonHelp,False,Sat Feb 03 06:19:00 +0000 2024,Sorry for the confusion. Can you send us the order ID via DM so we can review the charge and correct it if needed?,,1342,billing_dispute
+1344,cust_b9979a4f,True,Sat Aug 31 23:42:00 +0000 2024,"There's an unauthorized charge on my card labeled Amazon, order 464863, I never bought this.",1345,,billing_dispute
+1345,AmazonHelp,False,Sat Aug 31 23:57:00 +0000 2024,Sorry for the confusion. Can you send us the order ID via DM so we can review the charge and correct it if needed?,,1344,billing_dispute
+1346,cust_9228eda3,True,Mon Sep 09 13:24:00 +0000 2024,"There's an unauthorized charge on my card labeled Amazon, order 999398, I never bought this.",1347,,billing_dispute
+1347,AmazonHelp,False,Mon Sep 09 14:29:00 +0000 2024,Sorry for the confusion. Can you send us the order ID via DM so we can review the charge and correct it if needed?,,1346,billing_dispute
+1348,cust_34861bc9,True,Fri Jun 14 14:19:00 +0000 2024,Why was I billed $20 more than the listed price for 402218?,1349,,billing_dispute
+1349,AmazonHelp,False,Fri Jun 14 14:32:00 +0000 2024,We take this seriously. Please DM your order number and the charge details so our billing team can investigate immediately.,,1348,billing_dispute
+1350,cust_4f42a99b,True,Tue Oct 08 06:37:00 +0000 2024,"There's an unauthorized charge on my card labeled Amazon, order 429795, I never bought this.",1351,,billing_dispute
+1351,AmazonHelp,False,Tue Oct 08 07:30:00 +0000 2024,We take this seriously. Please DM your order number and the charge details so our billing team can investigate immediately.,,1350,billing_dispute
+1352,cust_6edac069,True,Thu May 30 11:00:00 +0000 2024,Why was I billed $5 more than the listed price for 639593?,1353,,billing_dispute
+1353,AmazonHelp,False,Thu May 30 11:08:00 +0000 2024,Sorry for the confusion. Can you send us the order ID via DM so we can review the charge and correct it if needed?,,1352,billing_dispute
+1354,cust_aaea34bb,True,Thu Aug 15 16:54:00 +0000 2024,Why was I billed $15 more than the listed price for 296694?,1355,,billing_dispute
+1355,AmazonHelp,False,Thu Aug 15 17:52:00 +0000 2024,Sorry for the confusion. Can you send us the order ID via DM so we can review the charge and correct it if needed?,,1354,billing_dispute
+1356,cust_f80ebf6a,True,Thu Jul 18 23:09:00 +0000 2024,"I was charged twice for order 896907, this is fraud, fix it now.",1357,,billing_dispute
+1357,AmazonHelp,False,Thu Jul 18 23:27:00 +0000 2024,Sorry for the confusion. Can you send us the order ID via DM so we can review the charge and correct it if needed?,,1356,billing_dispute
+1358,cust_0fb5a1dd,True,Wed Feb 14 05:02:00 +0000 2024,Why was I billed $20 more than the listed price for 402020?,1359,,billing_dispute
+1359,AmazonHelp,False,Wed Feb 14 05:07:00 +0000 2024,Sorry for the confusion. Can you send us the order ID via DM so we can review the charge and correct it if needed?,,1358,billing_dispute
+1360,cust_9332186f,True,Tue Apr 23 03:22:00 +0000 2024,Why was I billed $10 more than the listed price for 760626?,1361,,billing_dispute
+1361,AmazonHelp,False,Tue Apr 23 04:34:00 +0000 2024,We take this seriously. Please DM your order number and the charge details so our billing team can investigate immediately.,,1360,billing_dispute
+1362,cust_6d87e075,True,Sat Nov 02 08:18:00 +0000 2024,"I was charged twice for order 114338, this is fraud, fix it now.",1363,,billing_dispute
+1363,AmazonHelp,False,Sat Nov 02 10:16:00 +0000 2024,We take this seriously. Please DM your order number and the charge details so our billing team can investigate immediately.,,1362,billing_dispute
+1364,cust_0d428a61,True,Sun Jun 30 10:52:00 +0000 2024,"I was charged twice for order 218972, this is fraud, fix it now.",1365,,billing_dispute
+1365,AmazonHelp,False,Sun Jun 30 12:25:00 +0000 2024,We take this seriously. Please DM your order number and the charge details so our billing team can investigate immediately.,,1364,billing_dispute
+1366,cust_cbeb0eb0,True,Thu Jun 20 22:19:00 +0000 2024,"There's an unauthorized charge on my card labeled Amazon, order 406039, I never bought this.",1367,,billing_dispute
+1367,AmazonHelp,False,Thu Jun 20 22:52:00 +0000 2024,Sorry for the confusion. Can you send us the order ID via DM so we can review the charge and correct it if needed?,,1366,billing_dispute
+1368,cust_c7efc3cd,True,Sun Dec 01 15:24:00 +0000 2024,"There's an unauthorized charge on my card labeled Amazon, order 578975, I never bought this.",1369,,billing_dispute
+1369,AmazonHelp,False,Sun Dec 01 16:42:00 +0000 2024,We take this seriously. Please DM your order number and the charge details so our billing team can investigate immediately.,,1368,billing_dispute
+1370,cust_0989334c,True,Tue Oct 08 07:44:00 +0000 2024,"I was charged twice for order 632929, this is fraud, fix it now.",1371,,billing_dispute
+1371,AmazonHelp,False,Tue Oct 08 09:27:00 +0000 2024,Sorry for the confusion. Can you send us the order ID via DM so we can review the charge and correct it if needed?,,1370,billing_dispute
+1372,cust_cd40cc48,True,Fri Oct 25 18:04:00 +0000 2024,"There's an unauthorized charge on my card labeled Amazon, order 995916, I never bought this.",1373,,billing_dispute
+1373,AmazonHelp,False,Fri Oct 25 18:06:00 +0000 2024,Sorry for the confusion. Can you send us the order ID via DM so we can review the charge and correct it if needed?,,1372,billing_dispute
+1374,cust_d57f34a5,True,Mon Nov 11 00:45:00 +0000 2024,Why was I billed $15 more than the listed price for 396578?,1375,,billing_dispute
+1375,AmazonHelp,False,Mon Nov 11 01:06:00 +0000 2024,Sorry for the confusion. Can you send us the order ID via DM so we can review the charge and correct it if needed?,,1374,billing_dispute
+1376,cust_1c3e0214,True,Fri Jul 19 22:43:00 +0000 2024,"There's an unauthorized charge on my card labeled Amazon, order 568238, I never bought this.",1377,,billing_dispute
+1377,AmazonHelp,False,Sat Jul 20 00:22:00 +0000 2024,Sorry for the confusion. Can you send us the order ID via DM so we can review the charge and correct it if needed?,,1376,billing_dispute
+1378,cust_0638d19f,True,Tue Nov 12 14:41:00 +0000 2024,"There's an unauthorized charge on my card labeled Amazon, order 669827, I never bought this.",1379,,billing_dispute
+1379,AmazonHelp,False,Tue Nov 12 15:07:00 +0000 2024,Sorry for the confusion. Can you send us the order ID via DM so we can review the charge and correct it if needed?,,1378,billing_dispute
+1380,cust_113fab6c,True,Tue Mar 26 00:53:00 +0000 2024,Why was I billed $10 more than the listed price for 831380?,1381,,billing_dispute
+1381,AmazonHelp,False,Tue Mar 26 02:44:00 +0000 2024,Sorry for the confusion. Can you send us the order ID via DM so we can review the charge and correct it if needed?,,1380,billing_dispute
+1382,cust_0c526576,True,Sat Sep 28 03:19:00 +0000 2024,"I was charged twice for order 913217, this is fraud, fix it now.",1383,,billing_dispute
+1383,AmazonHelp,False,Sat Sep 28 04:21:00 +0000 2024,Sorry for the confusion. Can you send us the order ID via DM so we can review the charge and correct it if needed?,,1382,billing_dispute
+1384,cust_3ccbff7b,True,Sat Jun 29 08:14:00 +0000 2024,"There's an unauthorized charge on my card labeled Amazon, order 839485, I never bought this.",1385,,billing_dispute
+1385,AmazonHelp,False,Sat Jun 29 08:20:00 +0000 2024,We take this seriously. Please DM your order number and the charge details so our billing team can investigate immediately.,,1384,billing_dispute
+1386,cust_9e135ce1,True,Tue Feb 06 07:17:00 +0000 2024,"I was charged twice for order 232378, this is fraud, fix it now.",1387,,billing_dispute
+1387,AmazonHelp,False,Tue Feb 06 08:26:00 +0000 2024,Sorry for the confusion. Can you send us the order ID via DM so we can review the charge and correct it if needed?,,1386,billing_dispute
+1388,cust_74eed6ba,True,Wed May 29 06:26:00 +0000 2024,Why was I billed $5 more than the listed price for 579123?,1389,,billing_dispute
+1389,AmazonHelp,False,Wed May 29 08:19:00 +0000 2024,We take this seriously. Please DM your order number and the charge details so our billing team can investigate immediately.,,1388,billing_dispute
+1390,cust_aafb1614,True,Fri Oct 11 13:04:00 +0000 2024,"I was charged twice for order 786587, this is fraud, fix it now.",1391,,billing_dispute
+1391,AmazonHelp,False,Fri Oct 11 13:39:00 +0000 2024,Sorry for the confusion. Can you send us the order ID via DM so we can review the charge and correct it if needed?,,1390,billing_dispute
+1392,cust_5c0ba673,True,Wed Nov 06 02:50:00 +0000 2024,Why was I billed $20 more than the listed price for 455007?,1393,,billing_dispute
+1393,AmazonHelp,False,Wed Nov 06 03:34:00 +0000 2024,We take this seriously. Please DM your order number and the charge details so our billing team can investigate immediately.,,1392,billing_dispute
+1394,cust_2929f887,True,Wed Nov 13 14:59:00 +0000 2024,"There's an unauthorized charge on my card labeled Amazon, order 993744, I never bought this.",1395,,billing_dispute
+1395,AmazonHelp,False,Wed Nov 13 16:10:00 +0000 2024,Sorry for the confusion. Can you send us the order ID via DM so we can review the charge and correct it if needed?,,1394,billing_dispute
+1396,cust_123b2a96,True,Sat Mar 23 19:48:00 +0000 2024,"I was charged twice for order 137642, this is fraud, fix it now.",1397,,billing_dispute
+1397,AmazonHelp,False,Sat Mar 23 21:25:00 +0000 2024,Sorry for the confusion. Can you send us the order ID via DM so we can review the charge and correct it if needed?,,1396,billing_dispute
+1398,cust_8cc968b5,True,Mon Jun 10 12:55:00 +0000 2024,"I was charged twice for order 194769, this is fraud, fix it now.",1399,,billing_dispute
+1399,AmazonHelp,False,Mon Jun 10 13:18:00 +0000 2024,We take this seriously. Please DM your order number and the charge details so our billing team can investigate immediately.,,1398,billing_dispute
+1400,cust_87d92a6b,True,Sun Apr 28 02:25:00 +0000 2024,"I've been locked out of my Amazon account for 3 days, no email response.",1401,,account_access
+1401,AmazonHelp,False,Sun Apr 28 04:08:00 +0000 2024,We're sorry for the trouble. Please visit amazon.com/account-recovery or DM us so we can escalate this to our account security team.,,1400,account_access
+1402,cust_be508ef8,True,Wed Jun 05 19:23:00 +0000 2024,"My Prime membership shows canceled but I never canceled it, need this fixed urgently.",1403,,account_access
+1403,AmazonHelp,False,Wed Jun 05 19:43:00 +0000 2024,This needs a closer look from our account team. Please DM your registered email (not your password) so we can assist securely.,,1402,account_access
+1404,cust_71d0ff29,True,Sat Mar 02 21:20:00 +0000 2024,"Can't log in, keeps saying my password is wrong even after reset.",1405,,account_access
+1405,AmazonHelp,False,Sat Mar 02 21:44:00 +0000 2024,We're sorry for the trouble. Please visit amazon.com/account-recovery or DM us so we can escalate this to our account security team.,,1404,account_access
+1406,cust_2a08cf4d,True,Sun Jun 30 04:40:00 +0000 2024,"Can't log in, keeps saying my password is wrong even after reset.",1407,,account_access
+1407,AmazonHelp,False,Sun Jun 30 06:38:00 +0000 2024,We're sorry for the trouble. Please visit amazon.com/account-recovery or DM us so we can escalate this to our account security team.,,1406,account_access
+1408,cust_25c7595f,True,Tue Aug 20 06:05:00 +0000 2024,"I've been locked out of my Amazon account for 3 days, no email response.",1409,,account_access
+1409,AmazonHelp,False,Tue Aug 20 06:39:00 +0000 2024,This needs a closer look from our account team. Please DM your registered email (not your password) so we can assist securely.,,1408,account_access
+1410,cust_b71ebeb8,True,Sat Nov 23 06:46:00 +0000 2024,"Can't log in, keeps saying my password is wrong even after reset.",1411,,account_access
+1411,AmazonHelp,False,Sat Nov 23 08:30:00 +0000 2024,We're sorry for the trouble. Please visit amazon.com/account-recovery or DM us so we can escalate this to our account security team.,,1410,account_access
+1412,cust_b9c6068b,True,Sat Jan 27 21:24:00 +0000 2024,"Can't log in, keeps saying my password is wrong even after reset.",1413,,account_access
+1413,AmazonHelp,False,Sat Jan 27 22:22:00 +0000 2024,We're sorry for the trouble. Please visit amazon.com/account-recovery or DM us so we can escalate this to our account security team.,,1412,account_access
+1414,cust_660185be,True,Sun Sep 08 08:03:00 +0000 2024,"Can't log in, keeps saying my password is wrong even after reset.",1415,,account_access
+1415,AmazonHelp,False,Sun Sep 08 08:37:00 +0000 2024,This needs a closer look from our account team. Please DM your registered email (not your password) so we can assist securely.,,1414,account_access
+1416,cust_d6fa3e8d,True,Wed Nov 06 16:33:00 +0000 2024,"I've been locked out of my Amazon account for 3 days, no email response.",1417,,account_access
+1417,AmazonHelp,False,Wed Nov 06 17:36:00 +0000 2024,This needs a closer look from our account team. Please DM your registered email (not your password) so we can assist securely.,,1416,account_access
+1418,cust_7a568991,True,Sun Jul 28 06:46:00 +0000 2024,"My Prime membership shows canceled but I never canceled it, need this fixed urgently.",1419,,account_access
+1419,AmazonHelp,False,Sun Jul 28 07:25:00 +0000 2024,This needs a closer look from our account team. Please DM your registered email (not your password) so we can assist securely.,,1418,account_access
+1420,cust_983329e9,True,Tue Apr 09 22:26:00 +0000 2024,"I've been locked out of my Amazon account for 3 days, no email response.",1421,,account_access
+1421,AmazonHelp,False,Tue Apr 09 22:29:00 +0000 2024,This needs a closer look from our account team. Please DM your registered email (not your password) so we can assist securely.,,1420,account_access
+1422,cust_eba17cb4,True,Wed Oct 30 05:27:00 +0000 2024,"Can't log in, keeps saying my password is wrong even after reset.",1423,,account_access
+1423,AmazonHelp,False,Wed Oct 30 07:24:00 +0000 2024,This needs a closer look from our account team. Please DM your registered email (not your password) so we can assist securely.,,1422,account_access
+1424,cust_4e238be5,True,Wed Mar 20 17:41:00 +0000 2024,"Can't log in, keeps saying my password is wrong even after reset.",1425,,account_access
+1425,AmazonHelp,False,Wed Mar 20 19:04:00 +0000 2024,This needs a closer look from our account team. Please DM your registered email (not your password) so we can assist securely.,,1424,account_access
+1426,cust_46461f7b,True,Fri Aug 16 17:42:00 +0000 2024,"Can't log in, keeps saying my password is wrong even after reset.",1427,,account_access
+1427,AmazonHelp,False,Fri Aug 16 17:56:00 +0000 2024,We're sorry for the trouble. Please visit amazon.com/account-recovery or DM us so we can escalate this to our account security team.,,1426,account_access
+1428,cust_52411576,True,Sat Jan 13 03:32:00 +0000 2024,"My Prime membership shows canceled but I never canceled it, need this fixed urgently.",1429,,account_access
+1429,AmazonHelp,False,Sat Jan 13 04:48:00 +0000 2024,This needs a closer look from our account team. Please DM your registered email (not your password) so we can assist securely.,,1428,account_access
+1430,cust_ea46ef08,True,Sun Apr 28 22:54:00 +0000 2024,"I've been locked out of my Amazon account for 3 days, no email response.",1431,,account_access
+1431,AmazonHelp,False,Mon Apr 29 00:31:00 +0000 2024,This needs a closer look from our account team. Please DM your registered email (not your password) so we can assist securely.,,1430,account_access
+1432,cust_205a89bb,True,Sun Oct 13 08:39:00 +0000 2024,"I've been locked out of my Amazon account for 3 days, no email response.",1433,,account_access
+1433,AmazonHelp,False,Sun Oct 13 09:50:00 +0000 2024,We're sorry for the trouble. Please visit amazon.com/account-recovery or DM us so we can escalate this to our account security team.,,1432,account_access
+1434,cust_42ae70df,True,Thu Nov 28 19:04:00 +0000 2024,"I've been locked out of my Amazon account for 3 days, no email response.",1435,,account_access
+1435,AmazonHelp,False,Thu Nov 28 20:51:00 +0000 2024,This needs a closer look from our account team. Please DM your registered email (not your password) so we can assist securely.,,1434,account_access
+1436,cust_4a3f08c2,True,Sat Oct 19 19:29:00 +0000 2024,"Can't log in, keeps saying my password is wrong even after reset.",1437,,account_access
+1437,AmazonHelp,False,Sat Oct 19 19:45:00 +0000 2024,This needs a closer look from our account team. Please DM your registered email (not your password) so we can assist securely.,,1436,account_access
+1438,cust_6cbca0c9,True,Sat Nov 09 04:01:00 +0000 2024,"I've been locked out of my Amazon account for 3 days, no email response.",1439,,account_access
+1439,AmazonHelp,False,Sat Nov 09 05:29:00 +0000 2024,We're sorry for the trouble. Please visit amazon.com/account-recovery or DM us so we can escalate this to our account security team.,,1438,account_access
+1440,cust_33c478ad,True,Fri Feb 02 21:04:00 +0000 2024,"Can't log in, keeps saying my password is wrong even after reset.",1441,,account_access
+1441,AmazonHelp,False,Fri Feb 02 22:47:00 +0000 2024,This needs a closer look from our account team. Please DM your registered email (not your password) so we can assist securely.,,1440,account_access
+1442,cust_cd5fab5f,True,Fri Jun 14 13:58:00 +0000 2024,"My Prime membership shows canceled but I never canceled it, need this fixed urgently.",1443,,account_access
+1443,AmazonHelp,False,Fri Jun 14 14:47:00 +0000 2024,We're sorry for the trouble. Please visit amazon.com/account-recovery or DM us so we can escalate this to our account security team.,,1442,account_access
+1444,cust_9b001eba,True,Sat Oct 26 10:23:00 +0000 2024,"Can't log in, keeps saying my password is wrong even after reset.",1445,,account_access
+1445,AmazonHelp,False,Sat Oct 26 11:46:00 +0000 2024,This needs a closer look from our account team. Please DM your registered email (not your password) so we can assist securely.,,1444,account_access
+1446,cust_c64d4a70,True,Thu Jun 20 15:49:00 +0000 2024,"Can't log in, keeps saying my password is wrong even after reset.",1447,,account_access
+1447,AmazonHelp,False,Thu Jun 20 15:54:00 +0000 2024,We're sorry for the trouble. Please visit amazon.com/account-recovery or DM us so we can escalate this to our account security team.,,1446,account_access
+1448,cust_3f010dfd,True,Fri Aug 23 19:16:00 +0000 2024,"Can't log in, keeps saying my password is wrong even after reset.",1449,,account_access
+1449,AmazonHelp,False,Fri Aug 23 19:26:00 +0000 2024,We're sorry for the trouble. Please visit amazon.com/account-recovery or DM us so we can escalate this to our account security team.,,1448,account_access
+1450,cust_bb728128,True,Sat Aug 24 09:08:00 +0000 2024,"Can't log in, keeps saying my password is wrong even after reset.",1451,,account_access
+1451,AmazonHelp,False,Sat Aug 24 10:02:00 +0000 2024,This needs a closer look from our account team. Please DM your registered email (not your password) so we can assist securely.,,1450,account_access
+1452,cust_e69b930b,True,Sat Apr 20 19:34:00 +0000 2024,"I've been locked out of my Amazon account for 3 days, no email response.",1453,,account_access
+1453,AmazonHelp,False,Sat Apr 20 20:39:00 +0000 2024,We're sorry for the trouble. Please visit amazon.com/account-recovery or DM us so we can escalate this to our account security team.,,1452,account_access
+1454,cust_0d7a1714,True,Tue May 21 12:02:00 +0000 2024,"I've been locked out of my Amazon account for 3 days, no email response.",1455,,account_access
+1455,AmazonHelp,False,Tue May 21 13:02:00 +0000 2024,We're sorry for the trouble. Please visit amazon.com/account-recovery or DM us so we can escalate this to our account security team.,,1454,account_access
+1456,cust_702d2d9b,True,Mon Nov 18 08:51:00 +0000 2024,"Can't log in, keeps saying my password is wrong even after reset.",1457,,account_access
+1457,AmazonHelp,False,Mon Nov 18 09:46:00 +0000 2024,We're sorry for the trouble. Please visit amazon.com/account-recovery or DM us so we can escalate this to our account security team.,,1456,account_access
+1458,cust_b0bb017f,True,Sat Dec 07 21:34:00 +0000 2024,"My Prime membership shows canceled but I never canceled it, need this fixed urgently.",1459,,account_access
+1459,AmazonHelp,False,Sat Dec 07 22:11:00 +0000 2024,This needs a closer look from our account team. Please DM your registered email (not your password) so we can assist securely.,,1458,account_access
+1460,cust_cebf1a79,True,Mon Jun 10 21:48:00 +0000 2024,"I've been locked out of my Amazon account for 3 days, no email response.",1461,,account_access
+1461,AmazonHelp,False,Mon Jun 10 22:20:00 +0000 2024,This needs a closer look from our account team. Please DM your registered email (not your password) so we can assist securely.,,1460,account_access
+1462,cust_683a5282,True,Wed Jul 17 05:36:00 +0000 2024,"I've been locked out of my Amazon account for 3 days, no email response.",1463,,account_access
+1463,AmazonHelp,False,Wed Jul 17 07:33:00 +0000 2024,This needs a closer look from our account team. Please DM your registered email (not your password) so we can assist securely.,,1462,account_access
+1464,cust_2554e5d1,True,Wed Apr 10 10:41:00 +0000 2024,"I've been locked out of my Amazon account for 3 days, no email response.",1465,,account_access
+1465,AmazonHelp,False,Wed Apr 10 11:07:00 +0000 2024,This needs a closer look from our account team. Please DM your registered email (not your password) so we can assist securely.,,1464,account_access
+1466,cust_bc4aecfe,True,Wed Aug 21 15:17:00 +0000 2024,"I've been locked out of my Amazon account for 3 days, no email response.",1467,,account_access
+1467,AmazonHelp,False,Wed Aug 21 16:40:00 +0000 2024,We're sorry for the trouble. Please visit amazon.com/account-recovery or DM us so we can escalate this to our account security team.,,1466,account_access
+1468,cust_669f4195,True,Fri Mar 29 16:20:00 +0000 2024,"I've been locked out of my Amazon account for 3 days, no email response.",1469,,account_access
+1469,AmazonHelp,False,Fri Mar 29 16:38:00 +0000 2024,This needs a closer look from our account team. Please DM your registered email (not your password) so we can assist securely.,,1468,account_access
+1470,cust_e5b1afc1,True,Thu Aug 01 11:53:00 +0000 2024,"I've been locked out of my Amazon account for 3 days, no email response.",1471,,account_access
+1471,AmazonHelp,False,Thu Aug 01 12:22:00 +0000 2024,We're sorry for the trouble. Please visit amazon.com/account-recovery or DM us so we can escalate this to our account security team.,,1470,account_access
+1472,cust_c7cea93e,True,Mon Oct 14 03:16:00 +0000 2024,"My Prime membership shows canceled but I never canceled it, need this fixed urgently.",1473,,account_access
+1473,AmazonHelp,False,Mon Oct 14 05:13:00 +0000 2024,We're sorry for the trouble. Please visit amazon.com/account-recovery or DM us so we can escalate this to our account security team.,,1472,account_access
+1474,cust_0848bfa5,True,Sat Feb 17 07:53:00 +0000 2024,"My Prime membership shows canceled but I never canceled it, need this fixed urgently.",1475,,account_access
+1475,AmazonHelp,False,Sat Feb 17 09:04:00 +0000 2024,We're sorry for the trouble. Please visit amazon.com/account-recovery or DM us so we can escalate this to our account security team.,,1474,account_access
+1476,cust_b82b27c7,True,Sat Feb 17 23:42:00 +0000 2024,"I've been locked out of my Amazon account for 3 days, no email response.",1477,,account_access
+1477,AmazonHelp,False,Sat Feb 17 23:45:00 +0000 2024,We're sorry for the trouble. Please visit amazon.com/account-recovery or DM us so we can escalate this to our account security team.,,1476,account_access
+1478,cust_06dfa9b9,True,Sat Jan 06 17:53:00 +0000 2024,"Can't log in, keeps saying my password is wrong even after reset.",1479,,account_access
+1479,AmazonHelp,False,Sat Jan 06 18:17:00 +0000 2024,This needs a closer look from our account team. Please DM your registered email (not your password) so we can assist securely.,,1478,account_access
+1480,cust_02fdd1ea,True,Wed Jul 10 13:00:00 +0000 2024,Does the Echo Dot 5th gen work without wifi at all?,1481,,product_question
+1481,AmazonHelp,False,Wed Jul 10 13:16:00 +0000 2024,Thanks for asking! Compatibility details are listed under 'Product Information' on the listing page.,,1480,product_question
+1482,cust_64f3ef6b,True,Thu Oct 10 06:24:00 +0000 2024,Is the Kindle Paperwhite waterproof enough for the pool?,1483,,product_question
+1483,AmazonHelp,False,Thu Oct 10 07:12:00 +0000 2024,Thanks for asking! Compatibility details are listed under 'Product Information' on the listing page.,,1482,product_question
+1484,cust_0418dda6,True,Tue Dec 10 05:10:00 +0000 2024,Is the Kindle Paperwhite waterproof enough for the pool?,1485,,product_question
+1485,AmazonHelp,False,Tue Dec 10 06:30:00 +0000 2024,"Great question! You can find full specs on the product page, or feel free to DM us for more details.",,1484,product_question
+1486,cust_9a545133,True,Tue Jan 23 03:30:00 +0000 2024,Is the Kindle Paperwhite waterproof enough for the pool?,1487,,product_question
+1487,AmazonHelp,False,Tue Jan 23 04:33:00 +0000 2024,"Great question! You can find full specs on the product page, or feel free to DM us for more details.",,1486,product_question
+1488,cust_eced8f45,True,Thu Jun 27 12:02:00 +0000 2024,Is the Kindle Paperwhite waterproof enough for the pool?,1489,,product_question
+1489,AmazonHelp,False,Thu Jun 27 13:35:00 +0000 2024,"Great question! You can find full specs on the product page, or feel free to DM us for more details.",,1488,product_question
+1490,cust_ea2035e7,True,Fri Aug 09 11:23:00 +0000 2024,Does the Echo Dot 5th gen work without wifi at all?,1491,,product_question
+1491,AmazonHelp,False,Fri Aug 09 11:43:00 +0000 2024,Thanks for asking! Compatibility details are listed under 'Product Information' on the listing page.,,1490,product_question
+1492,cust_0729241f,True,Sat May 18 16:23:00 +0000 2024,Is the Kindle Paperwhite waterproof enough for the pool?,1493,,product_question
+1493,AmazonHelp,False,Sat May 18 17:41:00 +0000 2024,Thanks for asking! Compatibility details are listed under 'Product Information' on the listing page.,,1492,product_question
+1494,cust_20427c17,True,Tue Feb 06 02:38:00 +0000 2024,Is the Kindle Paperwhite waterproof enough for the pool?,1495,,product_question
+1495,AmazonHelp,False,Tue Feb 06 04:21:00 +0000 2024,Thanks for asking! Compatibility details are listed under 'Product Information' on the listing page.,,1494,product_question
+1496,cust_539a8c9a,True,Wed Jun 05 14:00:00 +0000 2024,Will this charger work with the new iPhone models?,1497,,product_question
+1497,AmazonHelp,False,Wed Jun 05 14:59:00 +0000 2024,"Great question! You can find full specs on the product page, or feel free to DM us for more details.",,1496,product_question
+1498,cust_fba5e250,True,Sat May 25 04:09:00 +0000 2024,Is the Kindle Paperwhite waterproof enough for the pool?,1499,,product_question
+1499,AmazonHelp,False,Sat May 25 05:04:00 +0000 2024,Thanks for asking! Compatibility details are listed under 'Product Information' on the listing page.,,1498,product_question
+1500,cust_138cf7ed,True,Tue Apr 23 18:52:00 +0000 2024,Is the Kindle Paperwhite waterproof enough for the pool?,1501,,product_question
+1501,AmazonHelp,False,Tue Apr 23 20:19:00 +0000 2024,Thanks for asking! Compatibility details are listed under 'Product Information' on the listing page.,,1500,product_question
+1502,cust_93e4b648,True,Thu Jan 25 10:37:00 +0000 2024,Does the Echo Dot 5th gen work without wifi at all?,1503,,product_question
+1503,AmazonHelp,False,Thu Jan 25 10:50:00 +0000 2024,Thanks for asking! Compatibility details are listed under 'Product Information' on the listing page.,,1502,product_question
+1504,cust_46974c74,True,Mon Feb 05 03:47:00 +0000 2024,Does the Echo Dot 5th gen work without wifi at all?,1505,,product_question
+1505,AmazonHelp,False,Mon Feb 05 05:24:00 +0000 2024,Thanks for asking! Compatibility details are listed under 'Product Information' on the listing page.,,1504,product_question
+1506,cust_d74244ee,True,Thu Aug 01 12:36:00 +0000 2024,Does the Echo Dot 5th gen work without wifi at all?,1507,,product_question
+1507,AmazonHelp,False,Thu Aug 01 13:49:00 +0000 2024,"Great question! You can find full specs on the product page, or feel free to DM us for more details.",,1506,product_question
+1508,cust_19185ede,True,Wed May 29 13:42:00 +0000 2024,Will this charger work with the new iPhone models?,1509,,product_question
+1509,AmazonHelp,False,Wed May 29 14:29:00 +0000 2024,"Great question! You can find full specs on the product page, or feel free to DM us for more details.",,1508,product_question
+1510,cust_ae892c30,True,Sun Apr 14 17:20:00 +0000 2024,Will this charger work with the new iPhone models?,1511,,product_question
+1511,AmazonHelp,False,Sun Apr 14 18:38:00 +0000 2024,"Great question! You can find full specs on the product page, or feel free to DM us for more details.",,1510,product_question
+1512,cust_b997d52a,True,Mon Feb 26 08:03:00 +0000 2024,Does the Echo Dot 5th gen work without wifi at all?,1513,,product_question
+1513,AmazonHelp,False,Mon Feb 26 09:29:00 +0000 2024,"Great question! You can find full specs on the product page, or feel free to DM us for more details.",,1512,product_question
+1514,cust_d3935417,True,Sun Nov 03 18:59:00 +0000 2024,Does the Echo Dot 5th gen work without wifi at all?,1515,,product_question
+1515,AmazonHelp,False,Sun Nov 03 20:12:00 +0000 2024,Thanks for asking! Compatibility details are listed under 'Product Information' on the listing page.,,1514,product_question
+1516,cust_5fc32c38,True,Sun Oct 20 21:36:00 +0000 2024,Is the Kindle Paperwhite waterproof enough for the pool?,1517,,product_question
+1517,AmazonHelp,False,Sun Oct 20 22:32:00 +0000 2024,"Great question! You can find full specs on the product page, or feel free to DM us for more details.",,1516,product_question
+1518,cust_12583da3,True,Thu Jan 11 12:59:00 +0000 2024,Will this charger work with the new iPhone models?,1519,,product_question
+1519,AmazonHelp,False,Thu Jan 11 13:24:00 +0000 2024,Thanks for asking! Compatibility details are listed under 'Product Information' on the listing page.,,1518,product_question
+1520,cust_779edd09,True,Wed Jan 03 05:21:00 +0000 2024,Is the Kindle Paperwhite waterproof enough for the pool?,1521,,product_question
+1521,AmazonHelp,False,Wed Jan 03 05:46:00 +0000 2024,Thanks for asking! Compatibility details are listed under 'Product Information' on the listing page.,,1520,product_question
+1522,cust_65615eeb,True,Thu Sep 26 18:41:00 +0000 2024,Does the Echo Dot 5th gen work without wifi at all?,1523,,product_question
+1523,AmazonHelp,False,Thu Sep 26 20:04:00 +0000 2024,"Great question! You can find full specs on the product page, or feel free to DM us for more details.",,1522,product_question
+1524,cust_65c33a4a,True,Thu May 16 23:14:00 +0000 2024,Will this charger work with the new iPhone models?,1525,,product_question
+1525,AmazonHelp,False,Fri May 17 00:09:00 +0000 2024,"Great question! You can find full specs on the product page, or feel free to DM us for more details.",,1524,product_question
+1526,cust_b75fb98b,True,Tue Apr 23 11:07:00 +0000 2024,Does the Echo Dot 5th gen work without wifi at all?,1527,,product_question
+1527,AmazonHelp,False,Tue Apr 23 12:41:00 +0000 2024,Thanks for asking! Compatibility details are listed under 'Product Information' on the listing page.,,1526,product_question
+1528,cust_1b15c2dd,True,Tue Feb 27 07:28:00 +0000 2024,Does the Echo Dot 5th gen work without wifi at all?,1529,,product_question
+1529,AmazonHelp,False,Tue Feb 27 09:06:00 +0000 2024,"Great question! You can find full specs on the product page, or feel free to DM us for more details.",,1528,product_question
+1530,cust_7ebfe6ea,True,Tue Apr 09 01:40:00 +0000 2024,Will this charger work with the new iPhone models?,1531,,product_question
+1531,AmazonHelp,False,Tue Apr 09 02:38:00 +0000 2024,"Great question! You can find full specs on the product page, or feel free to DM us for more details.",,1530,product_question
+1532,cust_da38902c,True,Thu May 30 19:11:00 +0000 2024,Is the Kindle Paperwhite waterproof enough for the pool?,1533,,product_question
+1533,AmazonHelp,False,Thu May 30 19:47:00 +0000 2024,Thanks for asking! Compatibility details are listed under 'Product Information' on the listing page.,,1532,product_question
+1534,cust_dc683cb2,True,Sat Feb 10 08:58:00 +0000 2024,Is the Kindle Paperwhite waterproof enough for the pool?,1535,,product_question
+1535,AmazonHelp,False,Sat Feb 10 09:36:00 +0000 2024,Thanks for asking! Compatibility details are listed under 'Product Information' on the listing page.,,1534,product_question
+1536,cust_903a9d5f,True,Wed Jan 17 12:51:00 +0000 2024,Will this charger work with the new iPhone models?,1537,,product_question
+1537,AmazonHelp,False,Wed Jan 17 13:21:00 +0000 2024,Thanks for asking! Compatibility details are listed under 'Product Information' on the listing page.,,1536,product_question
+1538,cust_38b5673a,True,Fri Apr 19 17:50:00 +0000 2024,Does the Echo Dot 5th gen work without wifi at all?,1539,,product_question
+1539,AmazonHelp,False,Fri Apr 19 18:19:00 +0000 2024,"Great question! You can find full specs on the product page, or feel free to DM us for more details.",,1538,product_question
+1540,cust_bb6ad6a0,True,Mon Apr 29 11:10:00 +0000 2024,Is the Kindle Paperwhite waterproof enough for the pool?,1541,,product_question
+1541,AmazonHelp,False,Mon Apr 29 11:27:00 +0000 2024,Thanks for asking! Compatibility details are listed under 'Product Information' on the listing page.,,1540,product_question
+1542,cust_971f81ca,True,Mon Mar 04 23:14:00 +0000 2024,Will this charger work with the new iPhone models?,1543,,product_question
+1543,AmazonHelp,False,Mon Mar 04 23:32:00 +0000 2024,Thanks for asking! Compatibility details are listed under 'Product Information' on the listing page.,,1542,product_question
+1544,cust_45870114,True,Sat Jan 27 05:48:00 +0000 2024,Will this charger work with the new iPhone models?,1545,,product_question
+1545,AmazonHelp,False,Sat Jan 27 06:40:00 +0000 2024,Thanks for asking! Compatibility details are listed under 'Product Information' on the listing page.,,1544,product_question
+1546,cust_1f906825,True,Sun Jun 16 09:23:00 +0000 2024,Is the Kindle Paperwhite waterproof enough for the pool?,1547,,product_question
+1547,AmazonHelp,False,Sun Jun 16 11:22:00 +0000 2024,"Great question! You can find full specs on the product page, or feel free to DM us for more details.",,1546,product_question
+1548,cust_4054722f,True,Sat Jul 27 18:26:00 +0000 2024,Will this charger work with the new iPhone models?,1549,,product_question
+1549,AmazonHelp,False,Sat Jul 27 19:19:00 +0000 2024,Thanks for asking! Compatibility details are listed under 'Product Information' on the listing page.,,1548,product_question
+1550,cust_a97f4596,True,Mon May 27 11:13:00 +0000 2024,Is the Kindle Paperwhite waterproof enough for the pool?,1551,,product_question
+1551,AmazonHelp,False,Mon May 27 11:17:00 +0000 2024,"Great question! You can find full specs on the product page, or feel free to DM us for more details.",,1550,product_question
+1552,cust_af58f4e1,True,Tue Oct 29 22:21:00 +0000 2024,Will this charger work with the new iPhone models?,1553,,product_question
+1553,AmazonHelp,False,Tue Oct 29 23:51:00 +0000 2024,Thanks for asking! Compatibility details are listed under 'Product Information' on the listing page.,,1552,product_question
+1554,cust_0709edd3,True,Fri Mar 29 14:07:00 +0000 2024,Is the Kindle Paperwhite waterproof enough for the pool?,1555,,product_question
+1555,AmazonHelp,False,Fri Mar 29 15:04:00 +0000 2024,"Great question! You can find full specs on the product page, or feel free to DM us for more details.",,1554,product_question
+1556,cust_c350e681,True,Fri May 24 02:15:00 +0000 2024,Will this charger work with the new iPhone models?,1557,,product_question
+1557,AmazonHelp,False,Fri May 24 04:08:00 +0000 2024,"Great question! You can find full specs on the product page, or feel free to DM us for more details.",,1556,product_question
+1558,cust_a9526922,True,Thu Oct 10 16:02:00 +0000 2024,Does the Echo Dot 5th gen work without wifi at all?,1559,,product_question
+1559,AmazonHelp,False,Thu Oct 10 16:25:00 +0000 2024,Thanks for asking! Compatibility details are listed under 'Product Information' on the listing page.,,1558,product_question
+1560,cust_6588de45,True,Mon Nov 25 20:04:00 +0000 2024,Absolutely fed up with how many issues I've had this month.,1561,,general_complaint
+1561,AmazonHelp,False,Mon Nov 25 21:45:00 +0000 2024,"We're sorry to hear you're feeling this way. We'd like to make it right, please DM us more details.",,1560,general_complaint
+1562,cust_c04245cb,True,Wed Mar 27 00:32:00 +0000 2024,Absolutely fed up with how many issues I've had this month.,1563,,general_complaint
+1563,AmazonHelp,False,Wed Mar 27 00:47:00 +0000 2024,"We're sorry to hear you're feeling this way. We'd like to make it right, please DM us more details.",,1562,general_complaint
+1564,cust_38146cd5,True,Wed Aug 07 07:50:00 +0000 2024,"Amazon customer service has gone downhill so much this year, so disappointed.",1565,,general_complaint
+1565,AmazonHelp,False,Wed Aug 07 08:11:00 +0000 2024,"We're sorry to hear you're feeling this way. We'd like to make it right, please DM us more details.",,1564,general_complaint
+1566,cust_44137c8f,True,Mon Jun 17 22:05:00 +0000 2024,"Amazon customer service has gone downhill so much this year, so disappointed.",1567,,general_complaint
+1567,AmazonHelp,False,Mon Jun 17 23:43:00 +0000 2024,That's not the experience we want you to have. Let us know how we can help via DM.,,1566,general_complaint
+1568,cust_e05b54b6,True,Sun Nov 10 15:54:00 +0000 2024,Absolutely fed up with how many issues I've had this month.,1569,,general_complaint
+1569,AmazonHelp,False,Sun Nov 10 17:16:00 +0000 2024,That's not the experience we want you to have. Let us know how we can help via DM.,,1568,general_complaint
+1570,cust_6aeab93c,True,Wed Jun 19 17:29:00 +0000 2024,Been a Prime member for 8 years and this is how you treat loyal customers?,1571,,general_complaint
+1571,AmazonHelp,False,Wed Jun 19 18:27:00 +0000 2024,"We're sorry to hear you're feeling this way. We'd like to make it right, please DM us more details.",,1570,general_complaint
+1572,cust_6bb9671d,True,Wed May 08 03:19:00 +0000 2024,Been a Prime member for 8 years and this is how you treat loyal customers?,1573,,general_complaint
+1573,AmazonHelp,False,Wed May 08 04:25:00 +0000 2024,"We're sorry to hear you're feeling this way. We'd like to make it right, please DM us more details.",,1572,general_complaint
+1574,cust_d355ac93,True,Sun Jan 14 16:37:00 +0000 2024,Been a Prime member for 8 years and this is how you treat loyal customers?,1575,,general_complaint
+1575,AmazonHelp,False,Sun Jan 14 16:46:00 +0000 2024,That's not the experience we want you to have. Let us know how we can help via DM.,,1574,general_complaint
+1576,cust_a35ff875,True,Sun Aug 11 22:01:00 +0000 2024,"Amazon customer service has gone downhill so much this year, so disappointed.",1577,,general_complaint
+1577,AmazonHelp,False,Sun Aug 11 23:19:00 +0000 2024,"We're sorry to hear you're feeling this way. We'd like to make it right, please DM us more details.",,1576,general_complaint
+1578,cust_2a605c48,True,Wed Jun 12 17:49:00 +0000 2024,Been a Prime member for 8 years and this is how you treat loyal customers?,1579,,general_complaint
+1579,AmazonHelp,False,Wed Jun 12 19:47:00 +0000 2024,"We're sorry to hear you're feeling this way. We'd like to make it right, please DM us more details.",,1578,general_complaint
+1580,cust_8431bf27,True,Mon Jul 01 13:00:00 +0000 2024,Been a Prime member for 8 years and this is how you treat loyal customers?,1581,,general_complaint
+1581,AmazonHelp,False,Mon Jul 01 13:21:00 +0000 2024,That's not the experience we want you to have. Let us know how we can help via DM.,,1580,general_complaint
+1582,cust_4c7ba32c,True,Tue Sep 17 01:47:00 +0000 2024,"Amazon customer service has gone downhill so much this year, so disappointed.",1583,,general_complaint
+1583,AmazonHelp,False,Tue Sep 17 01:59:00 +0000 2024,That's not the experience we want you to have. Let us know how we can help via DM.,,1582,general_complaint
+1584,cust_9d2a67ef,True,Sat Sep 14 15:17:00 +0000 2024,"Amazon customer service has gone downhill so much this year, so disappointed.",1585,,general_complaint
+1585,AmazonHelp,False,Sat Sep 14 16:15:00 +0000 2024,"We're sorry to hear you're feeling this way. We'd like to make it right, please DM us more details.",,1584,general_complaint
+1586,cust_b5548aab,True,Sat Nov 30 05:03:00 +0000 2024,Been a Prime member for 8 years and this is how you treat loyal customers?,1587,,general_complaint
+1587,AmazonHelp,False,Sat Nov 30 05:41:00 +0000 2024,That's not the experience we want you to have. Let us know how we can help via DM.,,1586,general_complaint
+1588,cust_daef2b69,True,Mon Oct 14 08:22:00 +0000 2024,Been a Prime member for 8 years and this is how you treat loyal customers?,1589,,general_complaint
+1589,AmazonHelp,False,Mon Oct 14 09:44:00 +0000 2024,"We're sorry to hear you're feeling this way. We'd like to make it right, please DM us more details.",,1588,general_complaint
+1590,cust_4220d405,True,Sun Feb 04 09:48:00 +0000 2024,"Amazon customer service has gone downhill so much this year, so disappointed.",1591,,general_complaint
+1591,AmazonHelp,False,Sun Feb 04 11:01:00 +0000 2024,That's not the experience we want you to have. Let us know how we can help via DM.,,1590,general_complaint
+1592,cust_a2c58f37,True,Fri Sep 20 12:04:00 +0000 2024,Been a Prime member for 8 years and this is how you treat loyal customers?,1593,,general_complaint
+1593,AmazonHelp,False,Fri Sep 20 13:55:00 +0000 2024,That's not the experience we want you to have. Let us know how we can help via DM.,,1592,general_complaint
+1594,cust_c61e79aa,True,Wed Jul 31 04:03:00 +0000 2024,Been a Prime member for 8 years and this is how you treat loyal customers?,1595,,general_complaint
+1595,AmazonHelp,False,Wed Jul 31 05:29:00 +0000 2024,"We're sorry to hear you're feeling this way. We'd like to make it right, please DM us more details.",,1594,general_complaint
+1596,cust_465a483f,True,Fri Feb 16 22:47:00 +0000 2024,Been a Prime member for 8 years and this is how you treat loyal customers?,1597,,general_complaint
+1597,AmazonHelp,False,Sat Feb 17 00:05:00 +0000 2024,That's not the experience we want you to have. Let us know how we can help via DM.,,1596,general_complaint
+1598,cust_e1021fcc,True,Thu Aug 22 06:55:00 +0000 2024,Been a Prime member for 8 years and this is how you treat loyal customers?,1599,,general_complaint
+1599,AmazonHelp,False,Thu Aug 22 08:38:00 +0000 2024,That's not the experience we want you to have. Let us know how we can help via DM.,,1598,general_complaint
+1600,cust_d21de221,True,Fri Aug 23 05:03:00 +0000 2024,Absolutely fed up with how many issues I've had this month.,1601,,general_complaint
+1601,AmazonHelp,False,Fri Aug 23 06:30:00 +0000 2024,"We're sorry to hear you're feeling this way. We'd like to make it right, please DM us more details.",,1600,general_complaint
+1602,cust_e7c1596e,True,Mon Apr 22 10:54:00 +0000 2024,"Amazon customer service has gone downhill so much this year, so disappointed.",1603,,general_complaint
+1603,AmazonHelp,False,Mon Apr 22 11:19:00 +0000 2024,That's not the experience we want you to have. Let us know how we can help via DM.,,1602,general_complaint
+1604,cust_b1881850,True,Sat Mar 23 11:33:00 +0000 2024,Been a Prime member for 8 years and this is how you treat loyal customers?,1605,,general_complaint
+1605,AmazonHelp,False,Sat Mar 23 11:52:00 +0000 2024,"We're sorry to hear you're feeling this way. We'd like to make it right, please DM us more details.",,1604,general_complaint
+1606,cust_fa89db26,True,Wed Jul 03 20:15:00 +0000 2024,Been a Prime member for 8 years and this is how you treat loyal customers?,1607,,general_complaint
+1607,AmazonHelp,False,Wed Jul 03 21:55:00 +0000 2024,"We're sorry to hear you're feeling this way. We'd like to make it right, please DM us more details.",,1606,general_complaint
+1608,cust_137ac2ae,True,Fri Nov 15 02:02:00 +0000 2024,Absolutely fed up with how many issues I've had this month.,1609,,general_complaint
+1609,AmazonHelp,False,Fri Nov 15 03:42:00 +0000 2024,That's not the experience we want you to have. Let us know how we can help via DM.,,1608,general_complaint
+1610,cust_29b11848,True,Mon Feb 26 03:52:00 +0000 2024,Absolutely fed up with how many issues I've had this month.,1611,,general_complaint
+1611,AmazonHelp,False,Mon Feb 26 04:14:00 +0000 2024,That's not the experience we want you to have. Let us know how we can help via DM.,,1610,general_complaint
+1612,cust_4308c631,True,Tue Jan 16 21:47:00 +0000 2024,Absolutely fed up with how many issues I've had this month.,1613,,general_complaint
+1613,AmazonHelp,False,Tue Jan 16 22:41:00 +0000 2024,That's not the experience we want you to have. Let us know how we can help via DM.,,1612,general_complaint
+1614,cust_a9a0b488,True,Mon Sep 30 22:29:00 +0000 2024,Been a Prime member for 8 years and this is how you treat loyal customers?,1615,,general_complaint
+1615,AmazonHelp,False,Tue Oct 01 00:06:00 +0000 2024,That's not the experience we want you to have. Let us know how we can help via DM.,,1614,general_complaint
+1616,cust_69625bf2,True,Mon Apr 22 16:10:00 +0000 2024,"Amazon customer service has gone downhill so much this year, so disappointed.",1617,,general_complaint
+1617,AmazonHelp,False,Mon Apr 22 17:55:00 +0000 2024,"We're sorry to hear you're feeling this way. We'd like to make it right, please DM us more details.",,1616,general_complaint
+1618,cust_636b473d,True,Tue Sep 03 23:08:00 +0000 2024,"Amazon customer service has gone downhill so much this year, so disappointed.",1619,,general_complaint
+1619,AmazonHelp,False,Wed Sep 04 00:23:00 +0000 2024,That's not the experience we want you to have. Let us know how we can help via DM.,,1618,general_complaint
+1620,cust_02f82ee7,True,Tue Jul 02 02:27:00 +0000 2024,Been a Prime member for 8 years and this is how you treat loyal customers?,1621,,general_complaint
+1621,AmazonHelp,False,Tue Jul 02 03:36:00 +0000 2024,That's not the experience we want you to have. Let us know how we can help via DM.,,1620,general_complaint
+1622,cust_43d656c4,True,Wed Nov 13 20:24:00 +0000 2024,"Amazon customer service has gone downhill so much this year, so disappointed.",1623,,general_complaint
+1623,AmazonHelp,False,Wed Nov 13 20:58:00 +0000 2024,"We're sorry to hear you're feeling this way. We'd like to make it right, please DM us more details.",,1622,general_complaint
+1624,cust_70104690,True,Mon Sep 16 00:18:00 +0000 2024,Been a Prime member for 8 years and this is how you treat loyal customers?,1625,,general_complaint
+1625,AmazonHelp,False,Mon Sep 16 02:08:00 +0000 2024,"We're sorry to hear you're feeling this way. We'd like to make it right, please DM us more details.",,1624,general_complaint
+1626,cust_a846343b,True,Fri Oct 04 20:12:00 +0000 2024,Been a Prime member for 8 years and this is how you treat loyal customers?,1627,,general_complaint
+1627,AmazonHelp,False,Fri Oct 04 20:34:00 +0000 2024,"We're sorry to hear you're feeling this way. We'd like to make it right, please DM us more details.",,1626,general_complaint
+1628,cust_eecbd2d7,True,Tue Oct 29 13:47:00 +0000 2024,Absolutely fed up with how many issues I've had this month.,1629,,general_complaint
+1629,AmazonHelp,False,Tue Oct 29 14:44:00 +0000 2024,"We're sorry to hear you're feeling this way. We'd like to make it right, please DM us more details.",,1628,general_complaint
+1630,cust_682f1b58,True,Wed Dec 04 18:35:00 +0000 2024,Been a Prime member for 8 years and this is how you treat loyal customers?,1631,,general_complaint
+1631,AmazonHelp,False,Wed Dec 04 18:40:00 +0000 2024,That's not the experience we want you to have. Let us know how we can help via DM.,,1630,general_complaint
+1632,cust_a87a8748,True,Tue Mar 26 20:15:00 +0000 2024,Been a Prime member for 8 years and this is how you treat loyal customers?,1633,,general_complaint
+1633,AmazonHelp,False,Tue Mar 26 21:06:00 +0000 2024,That's not the experience we want you to have. Let us know how we can help via DM.,,1632,general_complaint
+1634,cust_c64a6259,True,Fri Apr 26 00:42:00 +0000 2024,"Amazon customer service has gone downhill so much this year, so disappointed.",1635,,general_complaint
+1635,AmazonHelp,False,Fri Apr 26 00:56:00 +0000 2024,"We're sorry to hear you're feeling this way. We'd like to make it right, please DM us more details.",,1634,general_complaint
+1636,cust_5edca7c4,True,Sun Jan 14 22:41:00 +0000 2024,"Amazon customer service has gone downhill so much this year, so disappointed.",1637,,general_complaint
+1637,AmazonHelp,False,Sun Jan 14 23:19:00 +0000 2024,"We're sorry to hear you're feeling this way. We'd like to make it right, please DM us more details.",,1636,general_complaint
+1638,cust_2c59bede,True,Thu Oct 03 06:51:00 +0000 2024,Absolutely fed up with how many issues I've had this month.,1639,,general_complaint
+1639,AmazonHelp,False,Thu Oct 03 08:23:00 +0000 2024,"We're sorry to hear you're feeling this way. We'd like to make it right, please DM us more details.",,1638,general_complaint
+1640,cust_7ccee85d,True,Mon Nov 25 19:30:00 +0000 2024,@AmazonHelp unrelated but does anyone know a good pizza place downtown,,,spam_or_irrelevant
+1641,cust_e1e5ebde,True,Thu Oct 31 00:01:00 +0000 2024,lol @AmazonHelp remember when Alexa said something weird lmaooo,,,spam_or_irrelevant
+1642,cust_ff84da75,True,Wed Mar 27 12:31:00 +0000 2024,@AmazonHelp check out my new mixtape link in bio!!,,,spam_or_irrelevant
+1643,cust_4374235f,True,Sat Jun 01 20:29:00 +0000 2024,@AmazonHelp check out my new mixtape link in bio!!,,,spam_or_irrelevant
+1644,cust_80aa4c8b,True,Thu Oct 31 15:05:00 +0000 2024,@AmazonHelp check out my new mixtape link in bio!!,,,spam_or_irrelevant
+1645,cust_b5a7a039,True,Wed Sep 18 14:44:00 +0000 2024,@AmazonHelp unrelated but does anyone know a good pizza place downtown,,,spam_or_irrelevant
+1646,cust_2834d696,True,Sun Aug 11 20:17:00 +0000 2024,lol @AmazonHelp remember when Alexa said something weird lmaooo,,,spam_or_irrelevant
+1647,cust_1af6b205,True,Sat Mar 09 04:46:00 +0000 2024,@AmazonHelp unrelated but does anyone know a good pizza place downtown,,,spam_or_irrelevant
+1648,cust_2ba5e4dc,True,Thu Jan 25 15:23:00 +0000 2024,@AmazonHelp unrelated but does anyone know a good pizza place downtown,,,spam_or_irrelevant
+1649,cust_8f32312b,True,Tue Jan 16 20:24:00 +0000 2024,lol @AmazonHelp remember when Alexa said something weird lmaooo,,,spam_or_irrelevant
+1650,cust_3da05b1d,True,Sun Sep 29 02:09:00 +0000 2024,lol @AmazonHelp remember when Alexa said something weird lmaooo,,,spam_or_irrelevant
+1651,cust_a7ade4cc,True,Thu Mar 28 18:59:00 +0000 2024,@AmazonHelp check out my new mixtape link in bio!!,,,spam_or_irrelevant
+1652,cust_0ef34e0d,True,Sun Feb 18 13:45:00 +0000 2024,@AmazonHelp unrelated but does anyone know a good pizza place downtown,,,spam_or_irrelevant
+1653,cust_bfd60037,True,Wed Oct 23 04:32:00 +0000 2024,@AmazonHelp unrelated but does anyone know a good pizza place downtown,,,spam_or_irrelevant
+1654,cust_b50a5ec2,True,Tue Sep 10 04:24:00 +0000 2024,@AmazonHelp unrelated but does anyone know a good pizza place downtown,,,spam_or_irrelevant
+1655,cust_3bbebb14,True,Tue Sep 17 16:53:00 +0000 2024,@AmazonHelp check out my new mixtape link in bio!!,,,spam_or_irrelevant
+1656,cust_4b38a223,True,Thu Mar 14 09:31:00 +0000 2024,@AmazonHelp check out my new mixtape link in bio!!,,,spam_or_irrelevant
+1657,cust_4d769fd1,True,Thu Dec 05 19:55:00 +0000 2024,@AmazonHelp check out my new mixtape link in bio!!,,,spam_or_irrelevant
+1658,cust_e1e2fc33,True,Tue Apr 02 05:29:00 +0000 2024,@AmazonHelp unrelated but does anyone know a good pizza place downtown,,,spam_or_irrelevant
+1659,cust_e7c07d23,True,Sat Nov 09 21:28:00 +0000 2024,lol @AmazonHelp remember when Alexa said something weird lmaooo,,,spam_or_irrelevant
+1660,cust_36b6ecd0,True,Tue Apr 09 11:24:00 +0000 2024,@AmazonHelp unrelated but does anyone know a good pizza place downtown,,,spam_or_irrelevant
+1661,cust_f1a610c2,True,Fri Sep 27 15:07:00 +0000 2024,lol @AmazonHelp remember when Alexa said something weird lmaooo,,,spam_or_irrelevant
+1662,cust_a3519784,True,Sat Jun 29 15:53:00 +0000 2024,lol @AmazonHelp remember when Alexa said something weird lmaooo,,,spam_or_irrelevant
+1663,cust_1458f072,True,Fri Oct 18 16:32:00 +0000 2024,lol @AmazonHelp remember when Alexa said something weird lmaooo,,,spam_or_irrelevant
+1664,cust_82d98ef2,True,Wed Aug 07 08:19:00 +0000 2024,@AmazonHelp check out my new mixtape link in bio!!,,,spam_or_irrelevant
+1665,cust_b971a1db,True,Fri Apr 26 22:47:00 +0000 2024,@AmazonHelp unrelated but does anyone know a good pizza place downtown,,,spam_or_irrelevant
+1666,cust_be11b910,True,Sun Apr 21 14:12:00 +0000 2024,lol @AmazonHelp remember when Alexa said something weird lmaooo,,,spam_or_irrelevant
+1667,cust_64b6c9e5,True,Tue May 07 23:51:00 +0000 2024,@AmazonHelp check out my new mixtape link in bio!!,,,spam_or_irrelevant
+1668,cust_21baf02f,True,Sun Aug 11 20:39:00 +0000 2024,@AmazonHelp unrelated but does anyone know a good pizza place downtown,,,spam_or_irrelevant
+1669,cust_6607e609,True,Sun Jan 28 07:43:00 +0000 2024,@AmazonHelp unrelated but does anyone know a good pizza place downtown,,,spam_or_irrelevant
+1670,cust_2966604c,True,Thu Dec 12 21:36:00 +0000 2024,lol @AmazonHelp remember when Alexa said something weird lmaooo,,,spam_or_irrelevant
+1671,cust_1f7290a9,True,Sat Jan 13 16:04:00 +0000 2024,@AmazonHelp unrelated but does anyone know a good pizza place downtown,,,spam_or_irrelevant
+1672,cust_b1e2c746,True,Sat May 11 20:31:00 +0000 2024,@AmazonHelp check out my new mixtape link in bio!!,,,spam_or_irrelevant
+1673,cust_d67bcc2a,True,Wed Sep 04 05:44:00 +0000 2024,@AmazonHelp unrelated but does anyone know a good pizza place downtown,,,spam_or_irrelevant
+1674,cust_1606db71,True,Fri Oct 04 19:56:00 +0000 2024,lol @AmazonHelp remember when Alexa said something weird lmaooo,,,spam_or_irrelevant
+1675,cust_a2005dd1,True,Fri May 24 22:04:00 +0000 2024,@AmazonHelp unrelated but does anyone know a good pizza place downtown,,,spam_or_irrelevant
+1676,cust_72fe1e4a,True,Wed Jan 10 10:26:00 +0000 2024,@AmazonHelp check out my new mixtape link in bio!!,,,spam_or_irrelevant
+1677,cust_34636322,True,Thu Nov 28 14:39:00 +0000 2024,lol @AmazonHelp remember when Alexa said something weird lmaooo,,,spam_or_irrelevant
+1678,cust_0fe95be3,True,Fri Sep 13 07:58:00 +0000 2024,lol @AmazonHelp remember when Alexa said something weird lmaooo,,,spam_or_irrelevant
+1679,cust_3d45f7ed,True,Mon Sep 09 16:05:00 +0000 2024,@AmazonHelp unrelated but does anyone know a good pizza place downtown,,,spam_or_irrelevant

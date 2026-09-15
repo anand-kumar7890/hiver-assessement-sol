@@ -1,0 +1,548 @@
+{
+  "n_golden_examples": 267,
+  "trivial_baseline": {
+    "intent": {
+      "per_class": {
+        "account_access": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 8
+        },
+        "billing_dispute": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 25
+        },
+        "general_complaint": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 62
+        },
+        "late_or_missing_delivery": {
+          "precision": 0.3258426966292135,
+          "recall": 1.0,
+          "f1": 0.4915254237288135,
+          "support": 87
+        },
+        "order_status": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 3
+        },
+        "product_question": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 36
+        },
+        "refund_or_return": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 21
+        },
+        "spam_or_irrelevant": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 1
+        },
+        "wrong_or_damaged_item": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 24
+        }
+      },
+      "accuracy": 0.3258426966292135,
+      "macro_f1": 0.05461393596986817
+    },
+    "escalation": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "confusion": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 56,
+        "tn": 211
+      },
+      "missed_escalations_rate": 0.20973782771535582
+    }
+  },
+  "simple_baseline": {
+    "intent": {
+      "per_class": {
+        "account_access": {
+          "precision": 0.5,
+          "recall": 0.375,
+          "f1": 0.42857142857142855,
+          "support": 8
+        },
+        "billing_dispute": {
+          "precision": 0.6666666666666666,
+          "recall": 0.16,
+          "f1": 0.25806451612903225,
+          "support": 25
+        },
+        "general_complaint": {
+          "precision": 0.2772727272727273,
+          "recall": 0.9838709677419355,
+          "f1": 0.4326241134751773,
+          "support": 62
+        },
+        "late_or_missing_delivery": {
+          "precision": 0.875,
+          "recall": 0.08045977011494253,
+          "f1": 0.14736842105263157,
+          "support": 87
+        },
+        "order_status": {
+          "precision": 0.1111111111111111,
+          "recall": 0.3333333333333333,
+          "f1": 0.16666666666666666,
+          "support": 3
+        },
+        "product_question": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 36
+        },
+        "refund_or_return": {
+          "precision": 0.8571428571428571,
+          "recall": 0.5714285714285714,
+          "f1": 0.6857142857142857,
+          "support": 21
+        },
+        "spam_or_irrelevant": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 1
+        },
+        "wrong_or_damaged_item": {
+          "precision": 0.3333333333333333,
+          "recall": 0.041666666666666664,
+          "f1": 0.07407407407407407,
+          "support": 24
+        }
+      },
+      "accuracy": 0.3333333333333333,
+      "macro_f1": 0.2436759450759218
+    },
+    "escalation": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "confusion": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 56,
+        "tn": 211
+      },
+      "missed_escalations_rate": 0.20973782771535582
+    }
+  },
+  "llm_agent": {
+    "intent": {
+      "per_class": {
+        "account_access": {
+          "precision": 0.5,
+          "recall": 0.75,
+          "f1": 0.6,
+          "support": 8
+        },
+        "billing_dispute": {
+          "precision": 0.8888888888888888,
+          "recall": 0.64,
+          "f1": 0.7441860465116279,
+          "support": 25
+        },
+        "general_complaint": {
+          "precision": 0.6901408450704225,
+          "recall": 0.7903225806451613,
+          "f1": 0.7368421052631579,
+          "support": 62
+        },
+        "late_or_missing_delivery": {
+          "precision": 0.8953488372093024,
+          "recall": 0.8850574712643678,
+          "f1": 0.8901734104046243,
+          "support": 87
+        },
+        "order_status": {
+          "precision": 0.3333333333333333,
+          "recall": 1.0,
+          "f1": 0.5,
+          "support": 3
+        },
+        "product_question": {
+          "precision": 0.875,
+          "recall": 0.5833333333333334,
+          "f1": 0.7000000000000001,
+          "support": 36
+        },
+        "refund_or_return": {
+          "precision": 0.9411764705882353,
+          "recall": 0.7619047619047619,
+          "f1": 0.8421052631578947,
+          "support": 21
+        },
+        "spam_or_irrelevant": {
+          "precision": 0.1111111111111111,
+          "recall": 1.0,
+          "f1": 0.19999999999999998,
+          "support": 1
+        },
+        "wrong_or_damaged_item": {
+          "precision": 0.8095238095238095,
+          "recall": 0.7083333333333334,
+          "f1": 0.7555555555555556,
+          "support": 24
+        }
+      },
+      "accuracy": 0.7715355805243446,
+      "macro_f1": 0.6632069312103179
+    },
+    "escalation": {
+      "precision": 0.4666666666666667,
+      "recall": 0.125,
+      "f1": 0.19718309859154928,
+      "confusion": {
+        "tp": 7,
+        "fp": 8,
+        "fn": 49,
+        "tn": 203
+      },
+      "missed_escalations_rate": 0.18352059925093633
+    }
+  },
+  "llm_judge_scores_subset": [
+    {
+      "grounded": 5,
+      "relevance": 5,
+      "tone": 5,
+      "actionability": 5,
+      "overall": 5,
+      "rationale": "The reply matches the precedent\u2019s empathetic tone, stays factual, directly addresses the repeat\u2011contact complaint, and gives a clear next step."
+    },
+    {
+      "grounded": 4,
+      "relevance": 3,
+      "tone": 2,
+      "actionability": 4,
+      "overall": 3,
+      "rationale": "The reply mirrors the precedent and offers a clear next step, but lacks empathy and fuller relevance to the customer's repeated delays."
+    },
+    {
+      "grounded": 5,
+      "relevance": 3,
+      "tone": 4,
+      "actionability": 4,
+      "overall": 4,
+      "rationale": "The reply matches the precedent and is polite, but only partially answers the customer's specific questions about timing and social media platforms."
+    },
+    {
+      "grounded": 5,
+      "relevance": 4,
+      "tone": 5,
+      "actionability": 4,
+      "overall": 4,
+      "rationale": "The reply matches the precedent\u2019s empathetic tone and asks a useful follow\u2011up, though it could more directly acknowledge the customer's frustration."
+    },
+    {
+      "grounded": 5,
+      "relevance": 5,
+      "tone": 5,
+      "actionability": 5,
+      "overall": 5,
+      "rationale": "The reply aligns with the precedent, empathetically addresses the delivery concern, and gives a clear next step."
+    },
+    {
+      "grounded": 4,
+      "relevance": 2,
+      "tone": 4,
+      "actionability": 3,
+      "overall": 3,
+      "rationale": "The reply matches the generic tone of precedents but fails to address the customer's specific concerns about the access code request and delivery attempt details."
+    },
+    {
+      "grounded": 5,
+      "relevance": 3,
+      "tone": 4,
+      "actionability": 4,
+      "overall": 4,
+      "rationale": "The reply matches the precedent\u2019s tone and style, asks for more details, but is only loosely aligned with the customer\u2019s request for insight into broader support issues."
+    },
+    {
+      "grounded": 5,
+      "relevance": 4,
+      "tone": 5,
+      "actionability": 5,
+      "overall": 5,
+      "rationale": "The reply matches the precedent style, empathetically asks for details via a link, and gives a clear next step without adding unsupported information."
+    },
+    {
+      "grounded": 4,
+      "relevance": 4,
+      "tone": 4,
+      "actionability": 4,
+      "overall": 4,
+      "rationale": "The reply aligns with the precedent\u2019s approach, addresses the complaint empathetically, and gives a clear next step without adding unsupported details."
+    },
+    {
+      "grounded": 5,
+      "relevance": 4,
+      "tone": 5,
+      "actionability": 5,
+      "overall": 5,
+      "rationale": "The reply matches the precedent, empathetically asks the customer to call, and provides a clear next step without adding unsupported details."
+    },
+    {
+      "grounded": 4,
+      "relevance": 3,
+      "tone": 4,
+      "actionability": 3,
+      "overall": 4,
+      "rationale": "The reply matches the precedent\u2019s tone and wording but only partially addresses the claim\u2011filing request, offering limited actionable guidance."
+    },
+    {
+      "grounded": 5,
+      "relevance": 4,
+      "tone": 5,
+      "actionability": 5,
+      "overall": 5,
+      "rationale": "The reply mirrors the precedent, is empathetic, addresses the issue, and gives a clear next step, though it could probe for more details."
+    },
+    {
+      "grounded": 3,
+      "relevance": 3,
+      "tone": 4,
+      "actionability": 1,
+      "overall": 3,
+      "rationale": "The reply matches the empathetic tone of the precedent but lacks specific next steps or contact information, making it only partially relevant and not actionable."
+    },
+    {
+      "grounded": 4,
+      "relevance": 3,
+      "tone": 4,
+      "actionability": 1,
+      "overall": 3,
+      "rationale": "The reply matches the precedent tone but lacks a clear next step for the customer."
+    },
+    {
+      "grounded": 5,
+      "relevance": 4,
+      "tone": 4,
+      "actionability": 5,
+      "overall": 4,
+      "rationale": "The reply aligns with precedent, addresses the limit issue, uses an empathetic tone, and gives a clear next step."
+    },
+    {
+      "grounded": 5,
+      "relevance": 5,
+      "tone": 4,
+      "actionability": 3,
+      "overall": 4,
+      "rationale": "The reply aligns with precedent and addresses the query empathetically, but offers only a vague next step."
+    },
+    {
+      "grounded": 4,
+      "relevance": 2,
+      "tone": 4,
+      "actionability": 2,
+      "overall": 3,
+      "rationale": "The reply matches the precedent\u2019s tone but does not directly address the system issue and offers limited actionable guidance."
+    },
+    {
+      "grounded": 5,
+      "relevance": 4,
+      "tone": 3,
+      "actionability": 5,
+      "overall": 4,
+      "rationale": "The reply matches the precedent and gives a clear next step, but could be more empathetic in tone."
+    },
+    {
+      "grounded": 3,
+      "relevance": 1,
+      "tone": 2,
+      "actionability": 1,
+      "overall": 1,
+      "rationale": "The reply is generic and polite but does not address the customer's request about deleting the tweet or provide any next steps."
+    },
+    {
+      "grounded": 5,
+      "relevance": 5,
+      "tone": 4,
+      "actionability": 5,
+      "overall": 5,
+      "rationale": "The reply mirrors the precedent, addresses the issue directly, offers a clear step, and is mostly empathetic though could be slightly warmer."
+    },
+    {
+      "grounded": 4,
+      "relevance": 3,
+      "tone": 2,
+      "actionability": 3,
+      "overall": 3,
+      "rationale": "The reply echoes the precedent but lacks empathy and a comprehensive next step for the frustrated customer."
+    },
+    {
+      "grounded": 4,
+      "relevance": 2,
+      "tone": 4,
+      "actionability": 2,
+      "overall": 3,
+      "rationale": "The reply matches the precedent's tone but fails to directly address the customer's complaint and offers no clear next step."
+    },
+    {
+      "grounded": 4,
+      "relevance": 4,
+      "tone": 4,
+      "actionability": 4,
+      "overall": 4,
+      "rationale": "The reply matches the precedent\u2019s style, addresses the delivery issue, is politely empathetic, and gives a clear next step via a link."
+    },
+    {
+      "grounded": 4,
+      "relevance": 4,
+      "tone": 4,
+      "actionability": 5,
+      "overall": 4,
+      "rationale": "The reply matches the precedent style, acknowledges the delay, asks for needed details, and gives a clear next step, though it could be slightly more personalized."
+    },
+    {
+      "grounded": 5,
+      "relevance": 3,
+      "tone": 3,
+      "actionability": 2,
+      "overall": 3,
+      "rationale": "The reply matches the precedent but offers limited empathy and no concrete next step beyond waiting."
+    },
+    {
+      "grounded": 4,
+      "relevance": 4,
+      "tone": 4,
+      "actionability": 4,
+      "overall": 4,
+      "rationale": "The reply aligns well with the precedent, empathetically asks for order details, and provides a clear next step, though it could be slightly more personalized."
+    },
+    {
+      "grounded": 5,
+      "relevance": 2,
+      "tone": 4,
+      "actionability": 4,
+      "overall": 3,
+      "rationale": "The reply matches the precedent style but fails to address the specific X\u2011ray feature question, limiting its usefulness."
+    },
+    {
+      "grounded": 1,
+      "relevance": 1,
+      "tone": 2,
+      "actionability": 1,
+      "overall": 1,
+      "rationale": "The reply is unrelated to the customer's complaint about irrelevant push notifications, uses a wrong name, and offers no appropriate next step."
+    },
+    {
+      "grounded": 4,
+      "relevance": 2,
+      "tone": 4,
+      "actionability": 3,
+      "overall": 3,
+      "rationale": "The reply matches the precedent\u2019s style but fails to address the specific refund/cancellation request, offering only a generic contact suggestion."
+    },
+    {
+      "grounded": 4,
+      "relevance": 4,
+      "tone": 4,
+      "actionability": 5,
+      "overall": 4,
+      "rationale": "The reply aligns with precedent, acknowledges the issue, and gives a clear next step, though it could be slightly more empathetic."
+    },
+    {
+      "grounded": 5,
+      "relevance": 5,
+      "tone": 5,
+      "actionability": 5,
+      "overall": 5,
+      "rationale": "The reply aligns with precedent, addresses the complaint empathetically, and gives a clear next step."
+    },
+    {
+      "grounded": 4,
+      "relevance": 2,
+      "tone": 4,
+      "actionability": 2,
+      "overall": 3,
+      "rationale": "The reply mirrors the precedent style but fails to address the billing dispute, offering limited actionable guidance."
+    },
+    {
+      "grounded": 5,
+      "relevance": 5,
+      "tone": 5,
+      "actionability": 2,
+      "overall": 4,
+      "rationale": "The reply matches the friendly tone and style of precedents and acknowledges the praise, but offers no actionable next step."
+    },
+    {
+      "grounded": 5,
+      "relevance": 5,
+      "tone": 5,
+      "actionability": 5,
+      "overall": 5,
+      "rationale": "The reply aligns with the precedent, directly addresses the return issue, shows empathy, and provides a clear next step."
+    },
+    {
+      "grounded": 5,
+      "relevance": 5,
+      "tone": 5,
+      "actionability": 5,
+      "overall": 5,
+      "rationale": "The reply mirrors the precedent, empathetically acknowledges the issue, and gives a clear next step to contact support."
+    },
+    {
+      "grounded": 5,
+      "relevance": 3,
+      "tone": 2,
+      "actionability": 4,
+      "overall": 3,
+      "rationale": "The reply matches the precedent and gives a clear next step, but lacks empathy and only partially addresses the shipping charge complaint."
+    },
+    {
+      "grounded": 5,
+      "relevance": 3,
+      "tone": 4,
+      "actionability": 3,
+      "overall": 4,
+      "rationale": "The reply matches the precedent style and tone but only partially addresses the customer's complaint and offers limited next steps."
+    },
+    {
+      "grounded": 5,
+      "relevance": 5,
+      "tone": 5,
+      "actionability": 5,
+      "overall": 5,
+      "rationale": "The reply aligns with precedent, directly addresses the delivery issue, shows empathy, and gives a clear next step."
+    },
+    {
+      "grounded": 3,
+      "relevance": 1,
+      "tone": 2,
+      "actionability": 2,
+      "overall": 2,
+      "rationale": "The reply follows the privacy precedent but fails to address the wrong\u2011item complaint, lacks empathy, and offers no clear next step."
+    },
+    {
+      "grounded": 4,
+      "relevance": 5,
+      "tone": 5,
+      "actionability": 2,
+      "overall": 4,
+      "rationale": "The reply matches the precedent\u2019s tone and content but lacks concrete next\u2011step details, making it less actionable."
+    }
+  ],
+  "llm_judge_mean_overall": 3.75
+}

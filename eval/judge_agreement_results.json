@@ -1,0 +1,210 @@
+{
+  "overall_agreement": {
+    "n": 40,
+    "exact_agreement_rate": 0.45,
+    "agreement_within_1_rate": 0.825,
+    "mean_absolute_difference": 0.725
+  },
+  "per_example": [
+    {
+      "example_id": "ex_0000",
+      "human_overall": 4,
+      "judge_overall": 5
+    },
+    {
+      "example_id": "ex_0001",
+      "human_overall": 3,
+      "judge_overall": 3
+    },
+    {
+      "example_id": "ex_0002",
+      "human_overall": 3,
+      "judge_overall": 4
+    },
+    {
+      "example_id": "ex_0003",
+      "human_overall": 4,
+      "judge_overall": 4
+    },
+    {
+      "example_id": "ex_0004",
+      "human_overall": 4,
+      "judge_overall": 5
+    },
+    {
+      "example_id": "ex_0005",
+      "human_overall": 3,
+      "judge_overall": 3
+    },
+    {
+      "example_id": "ex_0006",
+      "human_overall": 3,
+      "judge_overall": 4
+    },
+    {
+      "example_id": "ex_0007",
+      "human_overall": 3,
+      "judge_overall": 5
+    },
+    {
+      "example_id": "ex_0008",
+      "human_overall": 4,
+      "judge_overall": 4
+    },
+    {
+      "example_id": "ex_0009",
+      "human_overall": 3,
+      "judge_overall": 5
+    },
+    {
+      "example_id": "ex_0010",
+      "human_overall": 3,
+      "judge_overall": 4
+    },
+    {
+      "example_id": "ex_0011",
+      "human_overall": 3,
+      "judge_overall": 5
+    },
+    {
+      "example_id": "ex_0012",
+      "human_overall": 3,
+      "judge_overall": 3
+    },
+    {
+      "example_id": "ex_0013",
+      "human_overall": 4,
+      "judge_overall": 3
+    },
+    {
+      "example_id": "ex_0014",
+      "human_overall": 4,
+      "judge_overall": 4
+    },
+    {
+      "example_id": "ex_0015",
+      "human_overall": 4,
+      "judge_overall": 4
+    },
+    {
+      "example_id": "ex_0016",
+      "human_overall": 4,
+      "judge_overall": 3
+    },
+    {
+      "example_id": "ex_0017",
+      "human_overall": 4,
+      "judge_overall": 4
+    },
+    {
+      "example_id": "ex_0018",
+      "human_overall": 3,
+      "judge_overall": 1
+    },
+    {
+      "example_id": "ex_0019",
+      "human_overall": 3,
+      "judge_overall": 5
+    },
+    {
+      "example_id": "ex_0020",
+      "human_overall": 2,
+      "judge_overall": 3
+    },
+    {
+      "example_id": "ex_0021",
+      "human_overall": 3,
+      "judge_overall": 3
+    },
+    {
+      "example_id": "ex_0022",
+      "human_overall": 2,
+      "judge_overall": 4
+    },
+    {
+      "example_id": "ex_0023",
+      "human_overall": 4,
+      "judge_overall": 4
+    },
+    {
+      "example_id": "ex_0024",
+      "human_overall": 2,
+      "judge_overall": 3
+    },
+    {
+      "example_id": "ex_0025",
+      "human_overall": 4,
+      "judge_overall": 4
+    },
+    {
+      "example_id": "ex_0026",
+      "human_overall": 3,
+      "judge_overall": 3
+    },
+    {
+      "example_id": "ex_0027",
+      "human_overall": 2,
+      "judge_overall": 1
+    },
+    {
+      "example_id": "ex_0028",
+      "human_overall": 3,
+      "judge_overall": 3
+    },
+    {
+      "example_id": "ex_0030",
+      "human_overall": 4,
+      "judge_overall": 4
+    },
+    {
+      "example_id": "ex_0031",
+      "human_overall": 4,
+      "judge_overall": 5
+    },
+    {
+      "example_id": "ex_0032",
+      "human_overall": 2,
+      "judge_overall": 3
+    },
+    {
+      "example_id": "ex_0034",
+      "human_overall": 3,
+      "judge_overall": 4
+    },
+    {
+      "example_id": "ex_0036",
+      "human_overall": 4,
+      "judge_overall": 5
+    },
+    {
+      "example_id": "ex_0038",
+      "human_overall": 3,
+      "judge_overall": 5
+    },
+    {
+      "example_id": "ex_0040",
+      "human_overall": 3,
+      "judge_overall": 3
+    },
+    {
+      "example_id": "ex_0041",
+      "human_overall": 4,
+      "judge_overall": 4
+    },
+    {
+      "example_id": "ex_0042",
+      "human_overall": 5,
+      "judge_overall": 5
+    },
+    {
+      "example_id": "ex_0043",
+      "human_overall": 2,
+      "judge_overall": 2
+    },
+    {
+      "example_id": "ex_0044",
+      "human_overall": 3,
+      "judge_overall": 4
+    }
+  ]
+}
